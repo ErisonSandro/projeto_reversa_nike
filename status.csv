@@ -1,0 +1,514 @@
+responsavel,pedido,protocolo,status,abertura,tipo_protocolo,motivo_do_protocolo,cliente,cpf_cnpj,ultima_atualizacao_tramite,tempo_em_aberto
+Lojista,97868334,64035578,PENDENTE,2022-11-04 17:27:11,Troca - Registro Automático,Troca ,ricardo ribeiro do nascimento,4842252510,2022-11-04 17:27:11,0h
+Lojista,97596959,64035564,PENDENTE,2022-11-04 17:26:24,Troca - Registro Automático,Troca ,Thamiris Rodrigues De Oliveira,12589973632,2022-11-04 17:26:24,0h
+Lojista,97475974,64035439,PENDENTE,2022-11-04 17:17:11,Devolução - Registro Automático,Devolução,João Victor Miranda Claro,14323456646,2022-11-04 17:17:11,0h
+Lojista,97844370,64035432,PENDENTE,2022-11-04 17:16:55,Troca - Registro Automático,Troca ,Felipe lima,35165643859,2022-11-04 17:16:55,0h
+Lojista,96937952,64035312,PENDENTE,2022-11-03 07:35:51,Troca - Registro Automático,Troca ,Hugo Araujo Calli,40237081865,2022-11-04 17:09:20,33h
+Lojista,97084665,64035274,PENDENTE,2022-11-03 11:48:21,Troca - Registro Automático,Troca ,Smart Consultoria  Smart,20893968000100,2022-11-04 17:06:44,29h
+Lojista,97827714,64035172,PENDENTE,2022-11-04 17:00:02,Devolução - Registro Automático,Devolução,Egli Cardoso,31495363830,2022-11-04 17:00:02,0h
+Lojista,97903456,64035095,PENDENTE,2022-11-03 18:05:39,Devolução - Registro Automático,Devolução,Vitoria Borba Abdo,40478359861,2022-11-04 16:58:51,23h
+Lojista,97821617,64035079,PENDENTE,2022-11-04 16:58:40,Devolução - Registro Automático,Devolução,Leonardo Vieira,45355121837,2022-11-04 16:58:40,0h
+Lojista,97868601,64034967,PENDENTE,2022-11-03 14:17:45,Devolução - Registro Automático,Devolução,Thiago Vaz,3117101233,2022-11-04 16:57:05,27h
+Lojista,97820834,64034944,PENDENTE,2022-11-03 13:29:06,Troca - Registro Automático,Troca ,Ângelo freire,71271805200,2022-11-04 16:55:49,28h
+Lojista,97862093,64034924,PENDENTE,2022-11-03 13:25:22,Troca - Registro Automático,Troca ,ivanildo izaquiel,3169280465,2022-11-04 16:54:23,28h
+Lojista,94585290,64034881,PENDENTE,2022-11-04 16:51:53,Troca - Registro Automático,Troca ,Sheila Felix,33475804867,2022-11-04 16:51:53,0h
+Lojista,97984667,64034677,PENDENTE,2022-11-04 13:29:11,Devolução - Registro Automático,Devolução,Ruan Araújo da Silva,44597485848,2022-11-04 16:40:54,4h
+Lojista,97806344,64034580,PENDENTE,2022-11-04 16:36:00,Devolução - Registro Automático,Devolução,Rafael Barros Olimpio,33655287844,2022-11-04 16:36:00,0h
+Lojista,97157240,64034501,PENDENTE,2022-11-04 16:29:54,Devolução - Registro Automático,Devolução,Shalom Oliveira Barros,5404828544,2022-11-04 16:32:13,1h
+Lojista,97969414,64034403,PENDENTE,2022-11-04 16:27:11,Troca - Registro Automático,Troca ,Larissa Reis,2008066290,2022-11-04 16:27:11,1h
+Lojista,97732907,64034298,PENDENTE,2022-11-04 16:21:42,Troca - Registro Automático,Troca ,Glaucia  França Magalhães,14201318770,2022-11-04 16:21:42,1h
+Lojista,97460155,64034086,PENDENTE,2022-11-04 16:10:04,Devolução - Registro Automático,Devolução,Fátima de Jesus,47411643653,2022-11-04 16:10:04,1h
+Lojista,97484775,64033825,PENDENTE,2022-11-04 15:56:30,Devolução - Registro Automático,Devolução,Hígor Bruno Alves Pinto,7183957438,2022-11-04 15:56:30,1h
+Lojista,97465015,64033775,PENDENTE,2022-11-04 15:53:57,Devolução - Registro Automático,Devolução,Deusdedit Brito,2372354124,2022-11-04 15:53:57,1h
+Lojista,97461485,64033768,PENDENTE,2022-11-04 15:53:37,Troca - Registro Automático,Troca ,Diego Ferreira Rodrigues,35868524870,2022-11-04 15:53:37,1h
+Lojista,97283634,64033665,PENDENTE,2022-11-04 15:47:37,Devolução - Registro Automático,Devolução,Paulo Roberto Barbalho Galindo Neto,9008419408,2022-11-04 15:47:37,1h
+Lojista,97766175,64033581,PENDENTE,2022-11-04 15:42:25,Troca - Registro Automático,Troca ,carlos adriano de  paula leite,15058260808,2022-11-04 15:42:25,1h
+Lojista,97306851,64033536,PENDENTE,2022-11-04 15:40:01,Devolução - Registro Automático,Devolução,Alan Gomes Cardim,825487498,2022-11-04 15:40:01,1h
+Lojista,97111103,64033434,PENDENTE,2022-11-04 15:34:49,Devolução - Registro Automático,Devolução,Vyctoria Pinto Bessa,2967435260,2022-11-04 15:34:49,1h
+Lojista,97517056,64033424,PENDENTE,2022-11-02 14:36:29,Devolução - Registro Automático,Devolução,Neifa Adriana de Mello Rigobello,17282501882,2022-11-04 15:36:24,2d
+Lojista,97296245,64033371,PENDENTE,2022-11-04 15:31:35,Devolução - Registro Automático,Devolução,Erica Amorim Souza Silva,45822598803,2022-11-04 15:31:35,2h
+Lojista,97837019,64033331,PENDENTE,2022-11-04 15:29:58,Devolução - Registro Automático,Devolução,Everton Luiz de Lima  Lima,36576632827,2022-11-04 15:29:58,2h
+Lojista,97470257,64033318,PENDENTE,2022-11-04 15:29:07,Troca - Registro Automático,Troca ,Adriana Sousa,29350748827,2022-11-04 15:29:07,2h
+Lojista,97786879,64033313,PENDENTE,2022-11-01 17:38:59,Troca - Registro Automático,Troca ,Alan Damasio de Almeida,5519459746,2022-11-04 15:28:47,2d
+Lojista,97828086,64033163,PENDENTE,2022-11-04 15:20:51,Troca - Registro Automático,Troca ,Carolina Trancucci,32121703870,2022-11-04 15:20:51,2h
+Lojista,96934046,64033162,PENDENTE,2022-11-04 15:20:48,Devolução - Registro Automático,Devolução,Thiago Guedes,45246107825,2022-11-04 15:20:48,2h
+Lojista,97773513,64033101,PENDENTE,2022-11-04 15:17:20,Troca - Registro Automático,Troca ,Állisson Rodrigues,7282288313,2022-11-04 15:17:20,2h
+Lojista,97658512,64032989,PENDENTE,2022-11-04 15:12:15,Troca - Registro Automático,Troca ,Juan Santos Barboza,18285558789,2022-11-04 15:12:15,2h
+Lojista,97171934,64032906,PENDENTE,2022-11-04 15:07:27,Devolução - Registro Automático,Devolução,Edson caruara Barbosa,3233473478,2022-11-04 15:07:27,2h
+Lojista,97610349,64032871,PENDENTE,2022-11-04 15:05:21,Devolução - Registro Automático,Devolução,weliton da silva ramos,3177011265,2022-11-04 15:05:21,2h
+Lojista,97738475,64032741,PENDENTE,2022-11-04 14:58:15,Devolução - Registro Automático,Devolução,CID RANGEL,179331612,2022-11-04 14:58:15,2h
+Lojista,97415207,64032561,PENDENTE,2022-11-04 14:46:52,Devolução - Registro Automático,Devolução,Alexander Kupfer,91315310910,2022-11-04 14:46:52,2h
+Lojista,97778745,64032547,PENDENTE,2022-11-04 14:46:06,Troca - Registro Automático,Troca ,luiz carlos  leocio dos reis,7358515811,2022-11-04 14:46:06,2h
+Lojista,97737103,64032434,PENDENTE,2022-11-04 14:40:42,Devolução - Registro Automático,Devolução,Rafael Alex  Rafael Alex,39760498000126,2022-11-04 14:40:42,2h
+Lojista,97551286,64032356,PENDENTE,2022-11-04 14:36:30,Devolução - Registro Automático,Devolução,isabelli anjos,48943013850,2022-11-04 14:36:30,2h
+Lojista,97585621,64031956,PENDENTE,2022-11-04 14:15:08,Devolução - Registro Automático,Devolução,Eduardo Ken Tsuzuki,16333117838,2022-11-04 14:15:08,3h
+Lojista,96328159,64031522,PENDENTE,2022-11-04 13:54:20,Troca - Registro Automático,Troca ,Lucas  França Lobato,12919023683,2022-11-04 13:54:20,3h
+Lojista,97220843,64031492,PENDENTE,2022-11-04 13:52:50,Devolução - Registro Automático,Devolução,José Diego do Nascimento Valença,3987234512,2022-11-04 13:52:50,3h
+Lojista,97457031,64031489,PENDENTE,2022-11-04 13:52:47,Troca - Registro Automático,Troca ,Rony Vingren Flor Cordeiro,5788769736,2022-11-04 13:52:47,3h
+Lojista,97157606,64031436,PENDENTE,2022-11-04 13:50:09,Devolução - Registro Automático,Devolução,valter pires da silva junior,217966535,2022-11-04 13:50:09,3h
+Lojista,94839201,64031234,PENDENTE,2022-11-04 13:39:59,Troca - Registro Automático,Troca ,MARCO TULIO GOMES CAMPOS,8085643669,2022-11-04 13:39:59,3h
+Lojista,97512749,64031050,PENDENTE,2022-11-04 13:33:19,Troca - Registro Automático,Troca ,Walderson Carlos Tette Tette,87282020663,2022-11-04 13:33:19,4h
+Lojista,97512503,64030999,PENDENTE,2022-11-04 13:31:21,Troca - Registro Automático,Troca ,Paloma Lima dos Santos,49055319856,2022-11-04 13:31:21,4h
+Netshoes,97298217,64030995,PENDENTE,2022-11-04 13:31:13,Devolução - Registro Automático,Devolução,Hericles Melo,42057629848,2022-11-04 15:20:06,4h
+Lojista,97205936,64030845,PENDENTE,2022-11-04 13:23:30,Troca - Registro Automático,Troca ,Mirela Cláudia dos santos,2780506466,2022-11-04 13:23:30,4h
+Lojista,97585278,64030507,PENDENTE,2022-11-04 13:06:02,Troca - Registro Automático,Troca ,jailton bandeira da silva,16365486871,2022-11-04 13:06:02,4h
+Lojista,97463376,64030330,PENDENTE,2022-11-04 12:58:21,Devolução - Registro Automático,Devolução,Alysson Alencar,47403045890,2022-11-04 12:58:21,4h
+Lojista,97503322,64030102,PENDENTE,2022-11-01 16:45:15,Devolução - Registro Automático,Devolução,pedro henrique magalhaes,56576191880,2022-11-04 12:47:02,3d
+Lojista,96654681,64029848,PENDENTE,2022-11-04 12:31:55,Troca - Registro Automático,Troca ,Alipio de mattos freitas,7639519608,2022-11-04 12:31:55,5h
+Lojista,97102512,64029614,PENDENTE,2022-11-04 12:20:32,Devolução - Registro Automático,Devolução,Carmen Lucia  Souza da gama,3528443707,2022-11-04 12:20:32,5h
+Lojista,96927782,64029564,PENDENTE,2022-11-04 12:17:49,Troca - Registro Automático,Troca ,José Fernando da Silva,1527046630,2022-11-04 12:17:49,5h
+Lojista,97508434,64029434,PENDENTE,2022-11-04 12:10:10,Devolução - Registro Automático,Devolução,Airton luiz Warmling filho,9587841913,2022-11-04 12:10:10,5h
+Lojista,97295301,64029314,PENDENTE,2022-11-04 12:05:03,Troca - Registro Automático,Troca ,Laisa Tancredo,17532971686,2022-11-04 12:05:03,5h
+Lojista,97804332,64029110,PENDENTE,2022-11-04 11:53:12,Devolução - Registro Automático,Devolução,Wemerson Chaves Ferreira,3557264670,2022-11-04 11:53:12,5h
+Netshoes,97926713,64028816,PENDENTE,2022-11-04 11:39:47,Devolução - Registro Automático,Devolução,jaqueline  alves,41507676883,2022-11-04 12:08:06,5h
+Netshoes,97766680,64028803,PENDENTE,2022-11-04 11:38:50,Troca - Registro Automático,Troca ,Aline Menezes,9870797431,2022-11-04 12:11:00,5h
+Netshoes,97542005,64028733,PENDENTE,2022-11-04 11:35:26,Troca - Registro Automático,Troca ,Marcos Vinícius  Mafei Machado,11611385954,2022-11-04 12:19:32,5h
+Netshoes,97432061,64028674,PENDENTE,2022-11-04 11:32:34,Devolução - Registro Automático,Devolução,Rayner Amancio de Carvalho,2581583100,2022-11-04 12:38:11,6h
+Netshoes,97720471,64028592,PENDENTE,2022-11-04 11:28:11,Devolução - Registro Automático,Devolução,Marcela Magne Goyos,22116748879,2022-11-04 12:49:51,6h
+Netshoes,97530138,64028401,PENDENTE,2022-11-04 11:19:26,Devolução - Registro Automático,Devolução,Vera lucia Duarte leite Bonfim,9433459873,2022-11-04 14:14:15,6h
+Netshoes,97828330,64028326,PENDENTE,2022-11-03 09:00:11,Devolução - Registro Automático,Devolução,Bianca Vilassa,6819993579,2022-11-04 14:15:54,32h
+Netshoes,97515634,64028316,PENDENTE,2022-11-04 11:15:58,Devolução - Registro Automático,Devolução,Bruno Bastos Cardim,12314808746,2022-11-04 14:23:17,6h
+Netshoes,97255195,64028295,PENDENTE,2022-11-04 11:15:00,Troca - Registro Automático,Troca ,Thiago lima,40045476870,2022-11-04 14:27:53,6h
+Netshoes,97155815,64028178,PENDENTE,2022-11-04 11:09:21,Devolução - Registro Automático,Devolução,marlene ferreira,87763729953,2022-11-04 14:36:19,6h
+Netshoes,94956263T,64028174,PENDENTE,2022-11-04 11:09:14,Troca - Registro Automático,Troca ,Pedro  Afonso,872943119,2022-11-04 14:38:03,6h
+Netshoes,97531546,64027953,PENDENTE,2022-11-04 10:59:03,Troca - Registro Automático,Troca ,katia rosana Faria,60622741772,2022-11-04 14:40:45,6h
+Netshoes,97471041,64027782,PENDENTE,2022-11-04 10:52:32,Troca - Registro Automático,Troca ,Felipe de Souza Vieira Madornado,38385114840,2022-11-04 14:31:40,6h
+Netshoes,94846982,64027715,PENDENTE,2022-11-04 10:49:52,Troca - Registro Automático,Troca ,Francisco David medeiros de mi David,2378149352,2022-11-04 14:26:27,6h
+Netshoes,97098742,64027684,PENDENTE,2022-11-04 10:48:37,Troca - Registro Automático,Troca ,ALBERTO MARIO SILVA JUNIOR,49337963,2022-11-04 14:24:32,6h
+Netshoes,97754497,64027653,PENDENTE,2022-11-04 10:47:27,Devolução - Registro Automático,Devolução,felipe Diniz,48178726831,2022-11-04 14:23:30,6h
+Netshoes,97562264,64027618,PENDENTE,2022-11-04 10:45:51,Devolução - Registro Automático,Devolução,Robson Santos,8455640480,2022-11-04 14:22:33,6h
+Netshoes,97947234,64027311,PENDENTE,2022-11-04 10:31:09,Devolução - Registro Automático,Devolução,Jadiel Ramos,15495903676,2022-11-04 14:16:16,7h
+Netshoes,97927065,64026995,PENDENTE,2022-11-04 10:17:06,Troca - Registro Automático,Troca ,JHONY RODRIGUES VAZ,70075731185,2022-11-04 14:06:44,7h
+Netshoes,97493729,64026991,PENDENTE,2022-11-04 10:10:12,Devolução - Registro Automático,Devolução,Leda Andreoni,58301526068,2022-11-04 14:05:27,7h
+Netshoes,97552749,64026728,PENDENTE,2022-11-04 10:03:37,Troca - Registro Automático,Troca ,Lucas Rodrigues Salatiel,14414169607,2022-11-04 13:27:35,7h
+Netshoes,95704211,64026649,PENDENTE,2022-11-03 12:58:05,Troca - Registro Automático,Troca ,Rosilene de Jesus Vieira Pazito,1801044546,2022-11-04 12:54:07,28h
+Netshoes,97562000,64026325,PENDENTE,2022-11-04 09:45:29,Devolução - Registro Automático,Devolução,wilson kleber,573644780,2022-11-04 14:21:38,7h
+Netshoes,97612022,64026301,PENDENTE,2022-11-04 09:44:13,Devolução - Registro Automático,Devolução,Ana Caroline Sacramento,14144136701,2022-11-04 14:22:50,7h
+Netshoes,97956776,64026285,PENDENTE,2022-11-04 09:40:50,Devolução - Registro Automático,Devolução,Elque Renê  Mendes Silva,5652204540,2022-11-04 14:23:53,7h
+Netshoes,97480461,64026231,PENDENTE,2022-11-04 09:41:10,Troca - Registro Automático,Troca ,Matheus Ribeiro,41018263829,2022-11-04 14:25:34,7h
+Netshoes,96932619,64026218,PENDENTE,2022-11-02 17:03:06,Troca - Registro Automático,Troca ,sabrina seixas,35014738850,2022-11-04 14:31:57,2d
+Netshoes,97733640,64026078,PENDENTE,2022-11-04 09:35:24,Devolução - Registro Automático,Devolução,pollyana maia,1409730603,2022-11-04 15:03:47,7h
+Netshoes,96978620,64025993,PENDENTE,2022-11-04 09:31:57,Devolução - Registro Automático,Devolução,Bruno Rubens alve Militao,7484492566,2022-11-04 15:16:07,8h
+Netshoes,97258228,64025904,PENDENTE,2022-11-04 09:27:37,Devolução - Registro Automático,Devolução,Danielli Rossow Luz,14805876727,2022-11-04 15:20:41,8h
+Netshoes,97183669,64025856,PENDENTE,2022-11-04 09:25:34,Troca - Registro Automático,Troca ,Caio César Queiroz Ferreira,6741498400,2022-11-04 15:21:54,8h
+Netshoes,97162144,64025794,PENDENTE,2022-11-04 09:22:33,Devolução - Registro Automático,Devolução,Marcos Aparecido Russi,13085377867,2022-11-04 15:27:50,8h
+Netshoes,97466485,64025530,PENDENTE,2022-11-04 09:11:09,Devolução - Registro Automático,Devolução,leandro neves,4028995124,2022-11-04 15:25:01,8h
+Lojista,96910617,64025359,PENDENTE,2022-11-01 10:31:44,Devolução - Registro Automático,Devolução,Kalynny Santos,7454914489,2022-11-04 09:04:39,3d
+Netshoes,96781001,64025286,PENDENTE,2022-11-04 09:00:58,Troca - Registro Automático,Troca ,grazielle zinaura Rezende Zinaura,13590996706,2022-11-04 09:24:43,8h
+Lojista,97751008,64025153,PENDENTE,2022-11-03 19:45:54,Troca - Registro Automático,Troca ,Franz Seiji  Akiyama Feneberg,42745416812,2022-11-04 08:55:34,21h
+Netshoes,97910743,64025103,PENDENTE,2022-11-04 08:44:14,Devolução - Registro Automático,Devolução,Felipe Soares,9416231738,2022-11-04 16:22:09,8h
+Netshoes,96551047,64025094,PENDENTE,2022-11-04 08:53:09,Devolução - Registro Automático,Devolução,ricardo jorge,10906081440,2022-11-04 11:34:19,8h
+Netshoes,96669302,64025072,PENDENTE,2022-11-04 08:52:02,Troca - Registro Automático,Troca ,Leonardo Gustavo Teixeira,118256696,2022-11-04 16:24:23,8h
+Netshoes,96010976,64024987,PENDENTE,2022-11-04 08:47:54,Troca - Registro Automático,Troca ,Anna Prycilla Ferreira Rodrigues,10086894404,2022-11-04 16:37:05,8h
+Netshoes,96349057,64024868,PENDENTE,2022-11-04 08:41:47,Troca - Registro Automático,Troca ,Amanda Moura,11880099403,2022-11-04 16:39:18,8h
+Netshoes,96891943,64024816,PENDENTE,2022-11-04 08:39:04,Devolução - Registro Automático,Devolução,isa Vieira,37818679863,2022-11-04 16:51:00,8h
+Netshoes,97505169,64024781,PENDENTE,2022-11-04 08:37:10,Devolução - Registro Automático,Devolução,renato cavalcante,13572439795,2022-11-04 16:53:39,8h
+Netshoes,97122973,64024775,PENDENTE,2022-11-04 08:36:54,Troca - Registro Automático,Troca ,viviane tavares henriques,62978853620,2022-11-04 16:28:48,8h
+Netshoes,97461876,64024705,PENDENTE,2022-11-04 08:33:49,Troca - Registro Automático,Troca ,Fabrício  Júnior,9415909684,2022-11-04 16:26:37,9h
+Netshoes,97718198,64024585,PENDENTE,2022-11-04 08:28:30,Devolução - Registro Automático,Devolução,Leticia  Ferraz,10018989748,2022-11-04 16:00:29,9h
+Netshoes,97258251,64024350,PENDENTE,2022-11-04 08:12:54,Devolução - Registro Automático,Devolução,Pedro Serro,13918309703,2022-11-04 16:09:02,9h
+Netshoes,97590394,64024120,PENDENTE,2022-11-04 07:43:02,Troca - Registro Automático,Troca ,gustavo abreu,15382340684,2022-11-04 16:10:17,9h
+Netshoes,94895808T,64024108,PENDENTE,2022-11-04 07:37:49,Troca - Registro Automático,Troca ,Matheus Nascimento,86042518550,2022-11-04 16:12:57,9h
+Netshoes,96205554,64024106,PENDENTE,2022-11-01 14:36:25,Devolução - Registro Automático,Devolução,Marcelo Aranha de Lemos,2287554335,2022-11-04 16:16:33,3d
+Netshoes,97558773,64024101,PENDENTE,2022-11-04 07:35:35,Devolução - Registro Automático,Devolução,Amanda cristina cassoriello,26253894862,2022-11-04 16:17:37,9h
+Netshoes,97460077,64024090,PENDENTE,2022-11-04 07:33:27,Troca - Registro Automático,Troca ,GABRIEL MATEUS PEREIRA RIBEIRO,14421742694,2022-11-04 16:18:57,10h
+Netshoes,96658225,64024089,PENDENTE,2022-11-04 07:33:16,Troca - Registro Automático,Troca ,claudio josé medeiros de menezes medeiros,2489083406,2022-11-04 16:20:26,10h
+Netshoes,97163108,64024039,PENDENTE,2022-11-04 07:21:00,Devolução - Registro Automático,Devolução,Fabio Martins Parizio Guabiraba,5412119433,2022-11-04 16:21:52,10h
+Netshoes,97465377,64024006,PENDENTE,2022-11-04 07:06:11,Devolução - Registro Automático,Devolução,Rodrigo alves,36639500850,2022-11-04 16:22:54,10h
+Netshoes,97141563,64023979,PENDENTE,2022-11-04 06:56:54,Troca - Registro Automático,Troca ,Michael Brito,2618358155,2022-11-04 16:24:17,10h
+Netshoes,97242053,64023941,PENDENTE,2022-11-04 06:37:41,Troca - Registro Automático,Troca ,ANE CAROLINE PIRES DE OLIVEIRA,10716736616,2022-11-04 16:25:38,10h
+Netshoes,97531204,64023892,PENDENTE,2022-11-04 06:12:20,Devolução - Registro Automático,Devolução,Daniela Magalhães,22147623881,2022-11-04 13:24:38,11h
+Netshoes,97459712,64023847,PENDENTE,2022-11-04 05:45:20,Devolução - Registro Automático,Devolução,Cristiane Sousa,7504457779,2022-11-04 13:23:25,11h
+Netshoes,97470957,64023826,PENDENTE,2022-11-04 05:11:33,Devolução - Registro Automático,Devolução,Willian barroso vertelo,14856570676,2022-11-04 13:21:07,12h
+Netshoes,97407430,64023810,PENDENTE,2022-11-04 03:18:15,Devolução - Registro Automático,Devolução,Gustavo Santos,54270431873,2022-11-04 13:18:45,14h
+Netshoes,97390625,64023806,PENDENTE,2022-11-04 02:55:51,Troca - Registro Automático,Troca ,MISAEL GONCALVES,5138150073,2022-11-04 13:17:17,14h
+Netshoes,97843157,64023761,PENDENTE,2022-11-04 01:12:41,Devolução - Registro Automático,Devolução,gregory franco,462447006,2022-11-04 13:14:57,16h
+Netshoes,97754246,64023726,PENDENTE,2022-11-04 00:23:31,Troca - Registro Automático,Troca ,Roberto Spaggiari,35489067888,2022-11-04 13:13:13,17h
+Netshoes,97600650,64023702,PENDENTE,2022-11-04 00:16:50,Devolução - Registro Automático,Devolução,jonathan denadai,38200219810,2022-11-04 13:11:44,17h
+Netshoes,97901382,64023668,PENDENTE,2022-11-03 23:31:46,Devolução - Registro Automático,Devolução,Karoline Luna,14340963437,2022-11-04 13:10:32,18h
+Netshoes,95834566,64023636,PENDENTE,2022-11-03 23:13:44,Troca - Registro Automático,Troca ,Maria GDF,42330289120,2022-11-04 13:09:44,18h
+Netshoes,97739824,64023634,PENDENTE,2022-11-03 23:13:16,Devolução - Registro Automático,Devolução,Ana Júlia  Salvador,4566886506,2022-11-04 13:07:53,18h
+Netshoes,97457153,64023631,PENDENTE,2022-11-03 23:12:37,Troca - Registro Automático,Troca ,jose luiz gonsales mendes junior,37678344805,2022-11-04 13:05:47,18h
+Netshoes,97612366,64023551,PENDENTE,2022-11-03 22:42:28,Devolução - Registro Automático,Devolução,Ivan Reis Menezes,32350480810,2022-11-04 13:03:05,18h
+Netshoes,97555882,64023517,PENDENTE,2022-11-03 22:29:39,Devolução - Registro Automático,Devolução,Pedro Peres,50347871801,2022-11-04 13:01:38,19h
+Netshoes,97484926,64023509,PENDENTE,2022-11-03 22:28:03,Devolução - Registro Automático,Devolução,Gabriela Mota Ribeiro,10881283606,2022-11-04 12:59:18,19h
+Netshoes,97241736,64023468,PENDENTE,2022-11-03 22:11:22,Troca - Registro Automático,Troca ,carlos alberto  ferreira junior,242548512,2022-11-04 12:56:16,19h
+Netshoes,97723214,64023456,PENDENTE,2022-11-03 22:07:18,Troca - Registro Automático,Troca ,Carolina Marques Soler,37893959860,2022-11-04 12:53:51,19h
+Netshoes,97511266,64023455,PENDENTE,2022-11-03 22:07:14,Troca - Registro Automático,Troca ,patricia turini,78582326904,2022-11-04 12:52:42,19h
+Netshoes,97248328,64023441,PENDENTE,2022-11-03 21:59:55,Troca - Registro Automático,Troca ,Juliane della colleta de araujo,28356134803,2022-11-04 12:51:03,19h
+Netshoes,97601428,64023440,PENDENTE,2022-11-03 21:59:30,Devolução - Registro Automático,Devolução,Camila Seno Nascimento,38478239812,2022-11-04 12:49:54,19h
+Netshoes,97867864,64023421,PENDENTE,2022-11-03 11:12:24,Devolução - Registro Automático,Devolução,giovanna  souza,9482875869,2022-11-04 12:48:53,30h
+Netshoes,97752696,64023412,PENDENTE,2022-11-03 21:45:41,Troca - Registro Automático,Troca ,Bruno Oliveira,36634258864,2022-11-04 12:47:54,19h
+Netshoes,97414067,64023411,PENDENTE,2022-11-03 21:44:29,Devolução - Registro Automático,Devolução,Kevin Groff,84579099087,2022-11-04 12:46:54,19h
+Netshoes,97589370,64023405,PENDENTE,2022-11-03 21:43:07,Devolução - Registro Automático,Devolução,LUIZ  Carmignolli,35197350830,2022-11-04 12:45:58,19h
+Netshoes,97512778,64023386,PENDENTE,2022-11-03 21:35:13,Devolução - Registro Automático,Devolução,Luan Melo,3862398196,2022-11-04 12:44:40,19h
+Netshoes,97488055,64023356,PENDENTE,2022-11-03 18:59:17,Troca - Registro Automático,Troca ,ALESSANDRO FRANCISCO TRINDADE DE OLIVEIRA,7320617927,2022-11-04 12:43:45,22h
+Netshoes,97504927,64023353,PENDENTE,2022-11-03 21:24:26,Troca - Registro Automático,Troca ,David Giovanni de Freitas Rodrigues,22281697819,2022-11-04 12:42:55,20h
+Netshoes,97605075,64023341,PENDENTE,2022-11-03 21:22:03,Devolução - Registro Automático,Devolução,Vanessa Lazarini,31712496859,2022-11-04 12:42:06,20h
+Netshoes,96691044,64023323,PENDENTE,2022-11-03 21:17:35,Troca - Registro Automático,Troca ,tiago de abreu moreira,1651180083,2022-11-04 12:41:20,20h
+Netshoes,97556802,64023302,PENDENTE,2022-11-03 21:12:04,Troca - Registro Automático,Troca ,Claudia Sato,10408138874,2022-11-04 12:37:50,20h
+Netshoes,97214533,64023299,PENDENTE,2022-11-03 21:10:37,Devolução - Registro Automático,Devolução,ANTONIO ARTHUR  EMMANUEL DE SOUSA,6387389380,2022-11-04 12:36:55,20h
+Netshoes,97456392,64023294,PENDENTE,2022-11-03 21:09:11,Devolução - Registro Automático,Devolução,Cristiane Almeida,12612229892,2022-11-04 12:35:55,20h
+Netshoes,97483469,64023281,PENDENTE,2022-11-03 21:03:45,Devolução - Registro Automático,Devolução,ALEXANDRE GONÇALVES DE SOUZA,7522546770,2022-11-04 12:34:05,20h
+Netshoes,97077515,64023230,PENDENTE,2022-11-03 20:50:55,Troca - Registro Automático,Troca ,gustavo luiz  zanatta,3049096020,2022-11-04 12:29:22,20h
+Netshoes,97791287,64023229,PENDENTE,2022-11-03 20:50:28,Troca - Registro Automático,Troca ,Igor Silva,37254271860,2022-11-04 12:22:22,20h
+Netshoes,97471987,64023210,PENDENTE,2022-11-03 20:44:39,Devolução - Registro Automático,Devolução,Gabriel Farias,18591245776,2022-11-04 12:20:51,20h
+Netshoes,97454201,64023201,PENDENTE,2022-11-03 20:39:42,Troca - Registro Automático,Troca ,Iago Almeida,41780208898,2022-11-04 12:19:39,20h
+Netshoes,97463920,64023183,PENDENTE,2022-11-03 20:34:15,Devolução - Registro Automático,Devolução,Patricia Almeida Correa,27347232805,2022-11-04 12:18:32,21h
+Netshoes,97520363,64023128,PENDENTE,2022-11-01 13:29:03,Devolução - Registro Automático,Devolução,Juliana Demori Fernandes,33916719807,2022-11-04 12:03:12,3d
+Netshoes,97441334,64023122,PENDENTE,2022-11-03 20:17:11,Devolução - Registro Automático,Devolução,renato dias,14710729751,2022-11-04 11:56:27,21h
+Netshoes,97562451,64023098,PENDENTE,2022-11-03 20:10:18,Troca - Registro Automático,Troca ,Iris Alves,31460795857,2022-11-04 11:49:57,21h
+Netshoes,97470603,64023046,PENDENTE,2022-11-03 20:03:48,Devolução - Registro Automático,Devolução,Larissa Shinohara,51246028808,2022-11-04 11:48:34,21h
+Netshoes,97256689,64022998,PENDENTE,2022-11-03 19:58:36,Devolução - Registro Automático,Devolução,Fábio Alves,46156029877,2022-11-04 11:47:29,21h
+Netshoes,97748769,64022989,PENDENTE,2022-11-03 19:57:33,Devolução - Registro Automático,Devolução,Genilson Carmo,10535244479,2022-11-04 11:42:28,21h
+Netshoes,97387713,64022974,PENDENTE,2022-11-03 19:45:53,Devolução - Registro Automático,Devolução,jaime fernandes de araujo neto,6380120408,2022-11-04 07:40:40,21h
+Netshoes,97552758,64022925,PENDENTE,2022-11-03 19:52:26,Devolução - Registro Automático,Devolução,Adail José da Conceição Pereira,739010751,2022-11-04 07:41:56,21h
+Netshoes,97605625,64022911,PENDENTE,2022-11-03 19:51:38,Troca - Registro Automático,Troca ,lucilaine Oliveira,17823921812,2022-11-04 07:48:50,21h
+Netshoes,97568349,64022901,PENDENTE,2022-11-03 19:50:44,Troca - Registro Automático,Troca ,wesley davi,42810260885,2022-11-04 07:52:42,21h
+Netshoes,97324700,64022874,PENDENTE,2022-11-03 19:47:11,Troca - Registro Automático,Troca ,Marcello Fonseca,65168500200,2022-11-04 07:54:10,21h
+Netshoes,97411301,64022834,PENDENTE,2022-11-03 19:43:40,Troca - Registro Automático,Troca ,Janaína Brunetto,64109747015,2022-11-04 08:00:51,21h
+Netshoes,97502137,64022766,PENDENTE,2022-11-03 19:35:45,Troca - Registro Automático,Troca ,luan cunha dos santos,41442392843,2022-11-04 08:03:40,21h
+Netshoes,97738202,64022746,PENDENTE,2022-11-03 19:33:36,Devolução - Registro Automático,Devolução,JESSICA BARAVIERA COSTA,38623642830,2022-11-04 08:20:04,22h
+Netshoes,96721411,64022697,PENDENTE,2022-11-03 19:29:11,Troca - Registro Automático,Troca ,Karen Cristina Bernardini da Silva,41988775809,2022-11-04 08:24:37,22h
+Netshoes,97594223,64022627,PENDENTE,2022-11-03 19:23:57,Troca - Registro Automático,Troca ,Andre Luis Figueiredo,16604778835,2022-11-04 08:26:02,22h
+Netshoes,97816363,64022556,PENDENTE,2022-11-03 19:18:49,Devolução - Registro Automático,Devolução,kim nunes,489179312,2022-11-04 08:28:53,22h
+Netshoes,97266308,64022425,PENDENTE,2022-11-03 19:09:01,Troca - Registro Automático,Troca ,Laiza Yoshida,23084676810,2022-11-04 08:30:28,22h
+Netshoes,97459780,64021935,PENDENTE,2022-11-03 18:51:19,Devolução - Registro Automático,Devolução,Araci Maffasioli,73108359053,2022-11-04 09:09:36,22h
+Netshoes,97567030,64021900,PENDENTE,2022-11-03 18:48:22,Troca - Registro Automático,Troca ,Luana Fernandes,41753905885,2022-11-04 09:11:24,22h
+Netshoes,97388127,64021894,PENDENTE,2022-11-03 18:47:45,Devolução - Registro Automático,Devolução,João Marcos Ramos De Oliveira Ramos,76821749353,2022-11-04 09:13:25,22h
+Netshoes,97504783,64021791,PENDENTE,2022-11-03 18:39:33,Devolução - Registro Automático,Devolução,lauani pereira,86340036554,2022-11-04 09:15:36,22h
+Netshoes,97424990,64021715,PENDENTE,2022-11-03 18:32:46,Troca - Registro Automático,Troca ,João Santos,51276121865,2022-11-04 09:18:01,23h
+Netshoes,97471213,64021645,PENDENTE,2022-11-03 18:26:55,Troca - Registro Automático,Troca ,WILBERT Magalhaes,70251191133,2022-11-04 09:19:12,23h
+Netshoes,97755330,64021637,PENDENTE,2022-11-03 18:26:37,Troca - Registro Automático,Troca ,ELAINE FERNANDES,28329617890,2022-11-04 09:28:03,23h
+Netshoes,97870870,64021632,PENDENTE,2022-11-03 18:26:27,Troca - Registro Automático,Troca ,Artur Silva Ferreira,10773264671,2022-11-04 09:39:25,23h
+Netshoes,97566585,64021590,PENDENTE,2022-11-03 18:21:28,Troca - Registro Automático,Troca ,Rodrigo Caldas Fonseca,4464410669,2022-11-04 09:41:49,23h
+Netshoes,96928308,64021533,PENDENTE,2022-11-03 18:16:11,Troca - Registro Automático,Troca ,Thaís Martins,7668087184,2022-11-04 09:43:32,23h
+Netshoes,96934097,64021425,PENDENTE,2022-11-03 18:08:38,Devolução - Registro Automático,Devolução,maiko Carvalho de Oliveira,35222260895,2022-11-04 09:44:51,23h
+Netshoes,97752524,64021359,PENDENTE,2022-11-03 18:03:59,Troca - Registro Automático,Troca ,Rosemeire Pereira Scaneiro,31869877845,2022-11-04 09:46:36,23h
+Netshoes,97474924,64021257,PENDENTE,2022-11-03 18:00:13,Troca - Registro Automático,Troca ,Yasmin Kauany Sanches de Moraes,58179706869,2022-11-04 09:48:32,23h
+Netshoes,97268604,64021116,PENDENTE,2022-11-03 17:51:04,Troca - Registro Automático,Troca ,YARA CORINA LEITE VITAL,26111510835,2022-11-04 09:50:17,23h
+Netshoes,97448743,64020973,PENDENTE,2022-11-03 17:40:10,Devolução - Registro Automático,Devolução,vitor hugo,53028750805,2022-11-04 09:53:58,23h
+Netshoes,97868711,64020895,PENDENTE,2022-11-03 17:34:15,Troca - Registro Automático,Troca ,Felipe Marinho de Souza,752470205,2022-11-04 09:56:16,24h
+Netshoes,97564968,64020857,PENDENTE,2022-11-03 17:32:04,Troca - Registro Automático,Troca ,Aldy Oliveira,33227648857,2022-11-04 10:06:13,24h
+Netshoes,97853901,64020845,PENDENTE,2022-11-03 17:31:27,Devolução - Registro Automático,Devolução,Rômulo Medeiros,15744144706,2022-11-04 10:12:37,24h
+Netshoes,97319146,64020841,PENDENTE,2022-11-03 17:31:21,Devolução - Registro Automático,Devolução,AGNALDO BORGES FERNANDES,870456563,2022-11-04 10:20:49,24h
+Netshoes,97514934,64020771,PENDENTE,2022-11-03 17:26:32,Troca - Registro Automático,Troca ,Nubia de Cassia deAmorim Souza Amorim Souza,36037052549,2022-11-04 10:22:31,24h
+Netshoes,97357903,64020763,PENDENTE,2022-11-03 17:26:09,Troca - Registro Automático,Troca ,Andrey Silva,20382019784,2022-11-04 10:24:12,24h
+Netshoes,97611725,64020673,PENDENTE,2022-11-03 17:20:22,Devolução - Registro Automático,Devolução,Miller Horvath,40336566859,2022-11-04 10:28:05,24h
+Netshoes,97783328,64020666,PENDENTE,2022-11-03 17:20:07,Troca - Registro Automático,Troca ,luiz  costa cruz,31433074800,2022-11-04 11:25:02,24h
+Netshoes,97595780,64020581,PENDENTE,2022-11-03 17:16:04,Devolução - Registro Automático,Devolução,LUCIANA SANTOS,18469898841,2022-11-04 11:30:03,24h
+Netshoes,97464433,64020578,PENDENTE,2022-11-03 17:15:44,Troca - Registro Automático,Troca ,Fabio Silvestre da Silva,29464093846,2022-11-04 11:32:34,24h
+Netshoes,97128691,64020535,PENDENTE,2022-11-01 13:48:59,Troca - Registro Automático,Troca ,Isaias Luis Araujo Junior,1003957757,2022-11-04 11:34:52,3d
+Netshoes,97604254,64020444,PENDENTE,2022-11-03 17:08:48,Devolução - Registro Automático,Devolução,Vivian Rondon,29477828874,2022-11-04 11:39:40,24h
+Netshoes,97717971,64020342,PENDENTE,2022-11-03 17:03:19,Devolução - Registro Automático,Devolução,rony nascimento,35318326897,2022-11-04 13:05:48,24h
+Netshoes,97724635,64020323,PENDENTE,2022-11-03 17:02:34,Devolução - Registro Automático,Devolução,isabella Martins,37033143893,2022-11-04 13:41:06,24h
+Netshoes,97381720,64020321,PENDENTE,2022-11-03 17:02:33,Troca - Registro Automático,Troca ,luis felipe paya do prado,45609159890,2022-11-04 13:44:50,24h
+Netshoes,97110194,64020097,PENDENTE,2022-11-03 16:50:31,Devolução - Registro Automático,Devolução,jose Damiao dos prazeres,20667781846,2022-11-04 13:55:07,24h
+Netshoes,97792886,64020086,PENDENTE,2022-11-03 16:50:03,Troca - Registro Automático,Troca ,Matheus Penaforte,45962490835,2022-11-04 13:57:54,24h
+Netshoes,97787191,64019822,PENDENTE,2022-11-03 16:35:52,Troca - Registro Automático,Troca ,cintia gracielle santos,36222138845,2022-11-04 13:09:19,24h
+Netshoes,96572308,64019788,PENDENTE,2022-11-03 16:33:28,Troca - Registro Automático,Troca ,Alexandre Yoshimi,10498805875,2022-11-04 13:11:01,25h
+Netshoes,97250574,64019664,PENDENTE,2022-11-03 16:26:57,Devolução - Registro Automático,Devolução,Flavio Nunes Rosa,94858640604,2022-11-04 14:04:51,25h
+Netshoes,97592240,64019654,PENDENTE,2022-11-03 16:26:18,Devolução - Registro Automático,Devolução,octavio muniz,2146157747,2022-11-04 14:10:41,25h
+Netshoes,97477853,64019476,PENDENTE,2022-11-03 16:16:24,Troca - Registro Automático,Troca ,herica leticia,14550545771,2022-11-04 14:19:14,25h
+Netshoes,97597600,64019468,PENDENTE,2022-11-03 16:16:04,Troca - Registro Automático,Troca ,César jesus,79723470420,2022-11-04 14:24:38,25h
+Netshoes,97181735,64019359,PENDENTE,2022-11-02 09:03:44,Troca - Registro Automático,Troca ,Vagner Estevão Martins,8913898730,2022-11-04 14:27:41,2d
+Netshoes,97458270,64019147,PENDENTE,2022-11-03 15:59:44,Devolução - Registro Automático,Devolução,Viviane Souilljee,92580262091,2022-11-04 14:31:10,25h
+Netshoes,97590279,64018790,PENDENTE,2022-11-03 15:41:52,Troca - Registro Automático,Troca ,Ricardo perrucini felga,22410417850,2022-11-04 13:20:55,25h
+Netshoes,97718802,64018674,PENDENTE,2022-11-03 15:36:21,Devolução - Registro Automático,Devolução,SUPERSIM ANALISE DE DADOS E CORRESP  BA Super sim,33030944000160,2022-11-04 13:23:32,25h
+Netshoes,97250246T,64018580,PENDENTE,2022-11-03 15:32:01,Troca - Registro Automático,Troca ,Jéferson Soares Silva Júnior,10172018625,2022-11-04 13:26:18,26h
+Netshoes,97582771,64018453,PENDENTE,2022-11-03 15:26:23,Troca - Registro Automático,Troca ,Antonio Andrade,9873776478,2022-11-04 14:34:08,26h
+Netshoes,97737284,64018446,PENDENTE,2022-11-03 15:26:17,Devolução - Registro Automático,Devolução,MARCIO ROGERIO SANTOS,16308668818,2022-11-04 14:38:10,26h
+Netshoes,97557215,64018439,PENDENTE,2022-11-03 15:25:54,Devolução - Registro Automático,Devolução,Maiara Valentim,41318700884,2022-11-04 14:40:40,26h
+Netshoes,97740719,64018313,PENDENTE,2022-11-03 15:20:34,Devolução - Registro Automático,Devolução,João Vitor,90910375046,2022-11-04 14:46:40,26h
+Netshoes,96708718,64018290,PENDENTE,2022-11-03 15:19:39,Troca - Registro Automático,Troca ,DEICELENI MARTINS CABRINI,21732161801,2022-11-04 14:50:19,26h
+Netshoes,97456445,64018265,PENDENTE,2022-11-03 15:18:38,Devolução - Registro Automático,Devolução,Eduardo Arcanjo,44207219870,2022-11-04 14:53:17,26h
+Netshoes,97594137,64018059,PENDENTE,2022-11-03 15:08:25,Troca - Registro Automático,Troca ,lucas Trajano,71730191410,2022-11-04 14:55:59,26h
+Netshoes,97455584,64017973,PENDENTE,2022-11-03 15:04:06,Troca - Registro Automático,Troca ,Vinicius Barbosa,84272783572,2022-11-04 13:15:50,26h
+Netshoes,96366215,64017895,PENDENTE,2022-11-03 14:59:44,Troca - Registro Automático,Troca ,Maria Aparecida de Sena barros,52022986504,2022-11-04 11:10:08,26h
+Netshoes,97601463,64017708,PENDENTE,2022-11-03 14:50:31,Devolução - Registro Automático,Devolução,Lander  Lima,36044793800,2022-11-04 11:12:13,26h
+Netshoes,97505299,64017664,PENDENTE,2022-11-03 14:48:41,Devolução - Registro Automático,Devolução,Victor Valente,39456046800,2022-11-04 11:14:52,26h
+Netshoes,97526561,64017537,PENDENTE,2022-11-03 14:42:05,Troca - Registro Automático,Troca ,Sergio Alves Góes,86755501700,2022-11-04 11:16:35,26h
+Netshoes,96773379,64017494,PENDENTE,2022-11-03 14:40:06,Devolução - Registro Automático,Devolução,Ed. Celio Medeiros de Lemos,6740490473,2022-11-04 11:18:49,26h
+Netshoes,97556592,64017486,PENDENTE,2022-11-03 14:39:38,Troca - Registro Automático,Troca ,Leticia Chizzolini,45037488826,2022-11-04 11:21:46,26h
+Netshoes,97576165,64017480,PENDENTE,2022-11-03 14:39:24,Troca - Registro Automático,Troca ,Ana  Beatriz  do CARMO,11163243850,2022-11-04 11:25:09,26h
+Netshoes,97534167,64017456,PENDENTE,2022-11-03 14:38:01,Devolução - Registro Automático,Devolução,Luciere Friia Pina,25029723889,2022-11-04 11:28:22,26h
+Netshoes,97576707,64017337,PENDENTE,2022-11-03 14:31:57,Troca - Registro Automático,Troca ,Edvaldo Marçal Ferreira,13147906841,2022-11-04 11:30:43,27h
+Netshoes,96742123,64017216,PENDENTE,2022-11-03 14:25:39,Troca - Registro Automático,Troca ,Hélio Lucas Ferraz machado,41279256800,2022-11-04 11:36:17,27h
+Netshoes,97829690,64017063,PENDENTE,2022-11-02 14:06:56,Devolução - Registro Automático,Devolução,Igor Rodrigues Jardim,11199742678,2022-11-04 11:41:19,2d
+Netshoes,97495553,64017045,PENDENTE,2022-11-02 13:10:27,Devolução - Registro Automático,Devolução,Bianca Marinho de Oliveira Cecchi,45509444800,2022-11-03 17:04:33,2d
+Netshoes,96608019,64017044,PENDENTE,2022-11-03 14:16:56,Devolução - Registro Automático,Devolução,hudson caua  sousa da silva,91587077353,2022-11-03 17:07:18,27h
+Netshoes,96914576,64017041,PENDENTE,2022-11-03 14:16:43,Troca - Registro Automático,Troca ,Rafael Lima,1482790157,2022-11-03 17:11:14,27h
+Netshoes,97511840,64017016,PENDENTE,2022-11-01 18:53:14,Devolução - Registro Automático,Devolução,carlos alberto  ferreira junior,242548512,2022-11-04 11:49:58,2d
+Netshoes,97429959,64016985,PENDENTE,2022-11-01 16:51:39,Devolução - Registro Automático,Devolução,silmara AP de paulo,24583568851,2022-11-03 17:35:35,3d
+Netshoes,97414599,64016881,PENDENTE,2022-11-03 14:06:39,Devolução - Registro Automático,Devolução,Nayany Campos Souza,10717464644,2022-11-03 17:37:00,27h
+Netshoes,97331868,64016767,PENDENTE,2022-11-03 14:01:19,Devolução - Registro Automático,Devolução,Leonardo Eichholz Treichel,4514135046,2022-11-03 17:38:49,27h
+Netshoes,97505185,64016683,PENDENTE,2022-11-03 13:57:35,Devolução - Registro Automático,Devolução,Luíza Castro,15302974606,2022-11-04 12:03:14,27h
+Netshoes,97532787,64016667,PENDENTE,2022-11-03 13:57:10,Troca - Registro Automático,Troca ,Jany souza,11215472650,2022-11-04 12:06:08,27h
+Netshoes,97596952,64016590,PENDENTE,2022-11-03 13:52:48,Devolução - Registro Automático,Devolução,silvio machado alves,45148660910,2022-11-04 12:09:14,27h
+Netshoes,97435426,64016487,PENDENTE,2022-11-03 13:46:51,Devolução - Registro Automático,Devolução,rubens aparecido colla trench,36522537877,2022-11-04 12:11:46,27h
+Netshoes,96905572,64016485,PENDENTE,2022-11-03 13:46:43,Troca - Registro Automático,Troca ,ANA PAULA GOMES GOMES,1645158799,2022-11-04 12:14:42,27h
+Netshoes,97596524,64016430,PENDENTE,2022-11-03 13:43:29,Devolução - Registro Automático,Devolução,Alessandra Cardoso,3259126708,2022-11-04 12:16:56,27h
+Netshoes,97096506,64016394,PENDENTE,2022-11-03 12:59:31,Devolução - Registro Automático,Devolução,renato negrini pereira negrini pereira,7270835896,2022-11-04 12:21:48,28h
+Netshoes,97200176,64016372,PENDENTE,2022-11-03 13:40:19,Troca - Registro Automático,Troca ,Josias Almeida,28064701880,2022-11-04 12:33:34,27h
+Netshoes,97552721,64016210,PENDENTE,2022-11-03 13:33:28,Devolução - Registro Automático,Devolução,Erica tanaira da cruz bomfim,7938559776,2022-11-04 12:39:41,28h
+Netshoes,97421420,64016092,PENDENTE,2022-11-03 13:28:35,Troca - Registro Automático,Troca ,Manoel Antonio Rabelo Veloso,10266169643,2022-11-04 12:48:06,28h
+Netshoes,96665502,64015999,PENDENTE,2022-11-03 13:24:50,Troca - Registro Automático,Troca ,João Silva Melo,4614406440,2022-11-04 12:49:34,28h
+Netshoes,97589517,64015650,PENDENTE,2022-11-03 13:08:25,Devolução - Registro Automático,Devolução,alexandre cunha,17208704899,2022-11-04 14:07:24,28h
+Netshoes,96189543,64015643,PENDENTE,2022-11-03 13:08:06,Devolução - Registro Automático,Devolução,Vinicius Reis,4184862209,2022-11-04 14:09:16,28h
+Netshoes,97873492,64015427,PENDENTE,2022-11-03 12:56:42,Devolução - Registro Automático,Devolução,Wilson  Magalhães,6572205584,2022-11-04 14:12:07,28h
+Netshoes,97413749,64015194,PENDENTE,2022-11-03 12:47:01,Devolução - Registro Automático,Devolução,Vitor Jose Amorim,5935439638,2022-11-04 14:27:23,28h
+Netshoes,97504553,64015113,PENDENTE,2022-11-03 12:43:25,Devolução - Registro Automático,Devolução,Alexandre Santos Pimenta,18275658888,2022-11-04 14:33:29,28h
+Netshoes,97563823,64014875,PENDENTE,2022-11-03 12:32:58,Troca - Registro Automático,Troca ,claudia  gimenez Pontes,32987052847,2022-11-04 14:35:57,29h
+Netshoes,97218765,64014771,PENDENTE,2022-11-03 12:28:52,Troca - Registro Automático,Troca ,paola lemos,17093458700,2022-11-04 14:39:18,29h
+Netshoes,96847863,64014672,PENDENTE,2022-11-03 12:24:21,Troca - Registro Automático,Troca ,Alexsandro Carvalho,12774630690,2022-11-04 14:47:52,29h
+Netshoes,97605813,64014579,PENDENTE,2022-11-03 12:20:37,Troca - Registro Automático,Troca ,Creusa Fernandes da Silva,14846776840,2022-11-04 14:57:02,29h
+Netshoes,97532981,64014172,PENDENTE,2022-11-03 12:03:08,Devolução - Registro Automático,Devolução,fabio santos,29403199873,2022-11-04 15:00:25,29h
+Netshoes,97570423,64014077,PENDENTE,2022-11-03 11:58:27,Troca - Registro Automático,Troca ,Fábio Silva,24887886861,2022-11-04 08:27:49,29h
+Netshoes,95865472,64014050,PENDENTE,2022-11-03 11:57:16,Devolução - Registro Automático,Devolução,Gabriela  Santos,15639587679,2022-11-04 08:39:53,29h
+Netshoes,95726848T,64014013,PENDENTE,2022-11-03 11:55:17,Troca - Registro Automático,Troca ,Alexandre Souza,86160820508,2022-11-04 08:48:16,29h
+Netshoes,97436233,64013934,PENDENTE,2022-11-03 11:52:06,Troca - Registro Automático,Troca ,henrique  rosante,39685353832,2022-11-03 14:43:45,29h
+Netshoes,97469885,64013803,PENDENTE,2022-11-03 11:46:25,Devolução - Registro Automático,Devolução,Erik M. Chee John,5376552985,2022-11-03 15:11:05,29h
+Netshoes,97761466,64013749,PENDENTE,2022-11-03 11:44:17,Devolução - Registro Automático,Devolução,gerarcina oliveira Sousa Reis,65736869500,2022-11-03 15:15:23,29h
+Netshoes,96934261,64013671,PENDENTE,2022-11-03 11:40:02,Troca - Registro Automático,Troca ,Matheus Tellaroli Pugliese,35403917896,2022-11-03 15:17:44,29h
+Netshoes,97869155,64013640,PENDENTE,2022-11-03 11:38:43,Devolução - Registro Automático,Devolução,Pedro Algusto,1264420293,2022-11-03 15:20:41,29h
+Netshoes,97411376,64013439,PENDENTE,2022-11-03 11:29:17,Troca - Registro Automático,Troca ,João Evaristo,13970221757,2022-11-04 08:53:34,30h
+Netshoes,97400445,64013435,PENDENTE,2022-11-03 11:29:06,Troca - Registro Automático,Troca ,vinicius Martins,48009382876,2022-11-04 08:55:49,30h
+Netshoes,97291306,64013431,PENDENTE,2022-11-03 11:28:49,Devolução - Registro Automático,Devolução,Luis Queiroz,3250653497,2022-11-04 09:05:44,30h
+Netshoes,97567757,64013374,PENDENTE,2022-11-03 11:26:33,Troca - Registro Automático,Troca ,João Paulo Pessoa Rocha,32455681858,2022-11-04 09:08:47,30h
+Netshoes,97841744,64013331,PENDENTE,2022-11-03 11:24:37,Devolução - Registro Automático,Devolução,Matheus sertorio,31596074884,2022-11-04 09:10:55,30h
+Netshoes,96956916,64013143,PENDENTE,2022-11-03 11:14:45,Troca - Registro Automático,Troca ,Maria Betania Pereira Vasconcelos,60652995373,2022-11-04 09:58:02,30h
+Netshoes,97279487,64013120,PENDENTE,2022-11-03 11:13:44,Devolução - Registro Automático,Devolução,Lucinéia Gomes,8086906710,2022-11-04 10:01:31,30h
+Netshoes,97396504,64013064,PENDENTE,2022-11-03 11:10:03,Troca - Registro Automático,Troca ,marcos Andre Guilherme Farias,12269515706,2022-11-04 10:03:32,30h
+Netshoes,97743023,64012919,PENDENTE,2022-11-03 11:02:38,Devolução - Registro Automático,Devolução,Nilce Aparecida Ducati Colombo,10783464886,2022-11-04 10:08:16,30h
+Netshoes,97434307,64012901,PENDENTE,2022-11-03 11:01:49,Troca - Registro Automático,Troca ,Gabriel Alves,12745404610,2022-11-04 10:12:14,30h
+Netshoes,96711353,64012693,PENDENTE,2022-11-03 10:52:07,Troca - Registro Automático,Troca ,Camila Paiva,42113331861,2022-11-04 10:19:44,30h
+Netshoes,97268351,64012684,PENDENTE,2022-11-03 10:51:50,Troca - Registro Automático,Troca ,SEMÁRIO GOMES VIEIRA,73208787634,2022-11-04 10:22:24,30h
+Netshoes,97606274,64012641,PENDENTE,2022-11-03 10:50:13,Troca - Registro Automático,Troca ,leonardo prado,29468534898,2022-11-04 10:24:09,30h
+Netshoes,97828858,64012398,PENDENTE,2022-11-03 10:41:02,Devolução - Registro Automático,Devolução,Rafael de Carvalho Castilho,40505733854,2022-11-04 10:26:30,30h
+Netshoes,97795554,64012205,PENDENTE,2022-11-03 10:32:34,Troca - Registro Automático,Troca ,diblice alex sandro araujo,80270662634,2022-11-04 10:29:49,31h
+Netshoes,97463949,64012179,PENDENTE,2022-11-03 10:31:27,Devolução - Registro Automático,Devolução,sergio pereira da silva silva,10163886830,2022-11-04 10:32:01,31h
+Netshoes,94763497,64012094,PENDENTE,2022-11-03 10:27:16,Troca - Registro Automático,Troca ,Petrina Romagna,6222101658,2022-11-04 10:35:21,31h
+Netshoes,97818273,64011883,PENDENTE,2022-11-03 10:15:51,Troca - Registro Automático,Troca ,alex vital alves,5533621601,2022-11-04 10:39:36,31h
+Netshoes,97143776,64011830,PENDENTE,2022-11-03 10:13:35,Troca - Registro Automático,Troca ,josias bueno de campos bueno,38795180842,2022-11-04 10:42:27,31h
+Netshoes,97861121,64011793,PENDENTE,2022-11-03 08:33:38,Devolução - Registro Automático,Devolução,Felipe Santana,45421877809,2022-11-04 10:45:32,33h
+Netshoes,97534741,64011642,PENDENTE,2022-11-03 09:35:50,Troca - Registro Automático,Troca ,Alexssandra Pereira Luna Luna,33693131899,2022-11-04 10:47:32,31h
+Netshoes,97758485,64011571,PENDENTE,2022-11-03 10:01:54,Devolução - Registro Automático,Devolução,Rafael  Lisboa dos santos,31974646807,2022-11-04 10:52:26,31h
+Netshoes,97531164,64011364,PENDENTE,2022-11-01 12:53:55,Troca - Registro Automático,Troca ,jairo de souza dias paixao,15605550845,2022-11-03 16:23:51,3d
+Netshoes,96173021,64011023,PENDENTE,2022-11-03 09:38:01,Troca - Registro Automático,Troca ,Vanessa Rocha,37220839820,2022-11-03 16:39:07,31h
+Netshoes,97523439,64010757,PENDENTE,2022-11-03 09:26:46,Troca - Registro Automático,Troca ,jose carlos rodriues rodrigues,9789878885,2022-11-03 16:41:36,32h
+Netshoes,97231413,64010462,PENDENTE,2022-11-01 12:22:39,Devolução - Registro Automático,Devolução,Alícia Lopes,52529234850,2022-11-03 16:48:36,3d
+Netshoes,97561997,64010296,PENDENTE,2022-11-03 09:10:26,Devolução - Registro Automático,Devolução,Francisco Campelo,10600961885,2022-11-03 16:52:47,32h
+Netshoes,97800439,64010049,PENDENTE,2022-11-03 08:51:31,Devolução - Registro Automático,Devolução,ROBERTO SERPA,95179054834,2022-11-03 17:00:30,32h
+Netshoes,97564128,64009975,PENDENTE,2022-11-03 08:55:07,Troca - Registro Automático,Troca ,olivia mesquita,37895988875,2022-11-03 17:02:57,32h
+Netshoes,96537656,64009608,PENDENTE,2022-11-03 08:33:29,Troca - Registro Automático,Troca ,Kassiano Silva,7398448902,2022-11-03 12:33:27,33h
+Netshoes,97520715,64009530,PENDENTE,2022-11-03 08:28:22,Troca - Registro Automático,Troca ,Vinicius Carvalho,2383877042,2022-11-03 17:14:13,33h
+Netshoes,97443284,64009443,PENDENTE,2022-11-03 08:22:46,Troca - Registro Automático,Troca ,ANDREIA COIMBRA,73271187053,2022-11-03 17:16:52,33h
+Netshoes,97216983,64009281,PENDENTE,2022-11-03 08:08:12,Devolução - Registro Automático,Devolução,Kennedy Xavier de Almeida,5742512430,2022-11-03 17:24:48,33h
+Netshoes,94903997,64009242,PENDENTE,2022-11-03 08:04:52,Devolução - Registro Automático,Devolução,Dhiego  Lang Campi,1165635240,2022-11-03 17:28:30,33h
+Netshoes,94918960,64009232,PENDENTE,2022-11-03 08:01:46,Troca - Registro Automático,Troca ,THAINARA MARTINS BERNARDINO DANTAS I,13152565763,2022-11-04 10:55:07,33h
+Netshoes,97158993,64009219,PENDENTE,2022-11-03 07:58:07,Devolução - Registro Automático,Devolução,everton fontoura,5546661623,2022-11-04 10:57:44,33h
+Netshoes,97855101,64009170,PENDENTE,2022-11-03 07:36:51,Troca - Registro Automático,Troca ,fernando burnquist,22054349852,2022-11-04 10:59:38,33h
+Netshoes,97172531,64009099,PENDENTE,2022-11-03 07:04:43,Troca - Registro Automático,Troca ,Taiara  Inacio,12708591614,2022-11-04 11:01:22,34h
+Netshoes,97734227,64009015,PENDENTE,2022-11-03 01:51:50,Devolução - Registro Automático,Devolução,matheus rafael,31431595888,2022-11-03 11:42:19,39h
+Netshoes,97455911,64008963,PENDENTE,2022-11-03 00:10:46,Troca - Registro Automático,Troca ,Matheus Henrique Silva Patrocinio,3681570167,2022-11-03 11:39:37,41h
+Netshoes,97464004,64008949,PENDENTE,2022-11-02 23:57:30,Troca - Registro Automático,Troca ,Ryan Camargo Luna,50435178830,2022-11-03 11:37:38,41h
+Netshoes,97825433,64008932,PENDENTE,2022-11-02 23:45:54,Devolução - Registro Automático,Devolução,Frederico Reis,56974889801,2022-11-03 11:35:36,41h
+Netshoes,97848880,64008929,PENDENTE,2022-11-02 23:45:20,Devolução - Registro Automático,Devolução,Frederico Reis,56974889801,2022-11-03 11:31:12,41h
+Netshoes,96681709,64008921,PENDENTE,2022-11-02 23:42:22,Troca - Registro Automático,Troca ,Cleilda  Maria da Silva,1773016512,2022-11-03 11:29:11,41h
+Netshoes,97250008,64008877,PENDENTE,2022-11-02 23:03:01,Troca - Registro Automático,Troca ,Willian Silva,7051273973,2022-11-03 11:27:25,42h
+Netshoes,97484461,64008868,PENDENTE,2022-11-02 22:58:39,Troca - Registro Automático,Troca ,alana nayara,40571179894,2022-11-03 11:24:28,42h
+Netshoes,97507078,64008867,PENDENTE,2022-11-02 22:58:19,Troca - Registro Automático,Troca ,Marcelo Oliveira,13276813661,2022-11-03 11:20:02,42h
+Netshoes,97222827,64008858,PENDENTE,2022-11-02 22:46:43,Devolução - Registro Automático,Devolução,Uil Alexandre Costa,7605338490,2022-11-03 11:18:16,42h
+Netshoes,96073659,64008839,PENDENTE,2022-11-02 22:40:52,Troca - Registro Automático,Troca ,Germano Mesquita,62806530300,2022-11-03 11:14:14,42h
+Netshoes,97302681,64008815,PENDENTE,2022-11-02 22:27:50,Troca - Registro Automático,Troca ,Lorena  Moraes,34019527814,2022-11-03 11:10:01,43h
+Netshoes,96909509,64008801,PENDENTE,2022-11-02 22:22:38,Troca - Registro Automático,Troca ,Ludmila Cunha,10002935643,2022-11-03 11:00:17,43h
+Netshoes,97395913,64008750,PENDENTE,2022-11-02 21:43:24,Devolução - Registro Automático,Devolução,Stefany Ribeiro de Paula,48085906899,2022-11-03 10:57:31,43h
+Netshoes,97838854,64008713,PENDENTE,2022-11-02 21:23:40,Devolução - Registro Automático,Devolução,Diogo Aparecido,47625419827,2022-11-03 10:55:51,44h
+Netshoes,96423370,64008670,PENDENTE,2022-11-02 21:07:38,Troca - Registro Automático,Troca ,Sávio Walzburger Galvão,61142889394,2022-11-03 10:53:40,44h
+Netshoes,97519812,64008669,PENDENTE,2022-11-01 11:52:16,Devolução - Registro Automático,Devolução,joyce floriano,44279532800,2022-11-03 10:48:14,3d
+Netshoes,97506393,64008632,PENDENTE,2022-11-02 20:52:10,Troca - Registro Automático,Troca ,Paulo Nowak,26819070802,2022-11-03 10:45:33,44h
+Netshoes,96543597,64008606,PENDENTE,2022-11-02 20:43:43,Troca - Registro Automático,Troca ,Josimar Vicenci,1827452013,2022-11-03 10:38:09,44h
+Netshoes,97538840,64008597,PENDENTE,2022-11-02 20:38:45,Troca - Registro Automático,Troca ,Giovanna Maurelli,40138299838,2022-11-03 10:32:25,44h
+Netshoes,97572895,64008596,PENDENTE,2022-11-02 20:38:24,Troca - Registro Automático,Troca ,ronaldo soares,8911237841,2022-11-03 10:27:32,44h
+Netshoes,97605235,64008592,PENDENTE,2022-11-02 20:36:16,Troca - Registro Automático,Troca ,Marcelo Henrique  Miani,8310668813,2022-11-03 09:58:48,44h
+Netshoes,97460413,64008582,PENDENTE,2022-11-02 20:31:18,Troca - Registro Automático,Troca ,RICARDO RODRIGUES DE SOUZA,5887075970,2022-11-03 09:56:45,45h
+Netshoes,97478257,64008577,PENDENTE,2022-11-02 20:29:50,Devolução - Registro Automático,Devolução,MICHELE AP. BARROS CIPOLLI,19806374827,2022-11-03 09:54:56,45h
+Netshoes,97522258,64008574,PENDENTE,2022-11-02 20:28:59,Devolução - Registro Automático,Devolução,Andre Albiero,5269951908,2022-11-03 09:51:02,45h
+Netshoes,97443781,64008531,PENDENTE,2022-11-02 20:17:08,Devolução - Registro Automático,Devolução,Maria Eduarda Ortigara,3710799007,2022-11-03 09:47:55,45h
+Netshoes,97268588,64008523,PENDENTE,2022-11-02 20:14:33,Troca - Registro Automático,Troca ,kamila bonatto,9805705900,2022-11-03 09:44:40,45h
+Netshoes,95247085,64008474,PENDENTE,2022-11-02 19:58:23,Troca - Registro Automático,Troca ,Thiago  Rodrigues,14790339793,2022-11-03 09:42:42,45h
+Netshoes,97138907,64008413,PENDENTE,2022-11-02 19:38:37,Troca - Registro Automático,Troca ,socorro  dunga,49932241415,2022-11-03 09:38:41,45h
+Netshoes,97232193,64008389,PENDENTE,2022-11-02 19:32:55,Troca - Registro Automático,Troca ,Antônio Silvestre de Carvalho Filho,6298058303,2022-11-03 09:36:32,46h
+Netshoes,97809203,64008353,PENDENTE,2022-11-02 19:21:45,Devolução - Registro Automático,Devolução,joao pedro  abrantes dantas,55853665804,2022-11-03 08:39:44,46h
+Netshoes,97456105,64008316,PENDENTE,2022-11-02 19:13:02,Troca - Registro Automático,Troca ,Leandro de Medeiros,5632894738,2022-11-03 08:35:06,46h
+Netshoes,97805204,64008103,PENDENTE,2022-11-02 18:26:28,Devolução - Registro Automático,Devolução,Fabio Podestá,3199930603,2022-11-03 08:33:07,47h
+Netshoes,97246018,64008083,PENDENTE,2022-11-02 18:20:45,Troca - Registro Automático,Troca ,Abne Mescena,86772146581,2022-11-03 08:30:53,47h
+Netshoes,97390249,64008069,PENDENTE,2022-11-02 18:16:54,Devolução - Registro Automático,Devolução,Mario Junior,41664703888,2022-11-03 08:27:54,47h
+Netshoes,97459500,64008056,PENDENTE,2022-11-02 18:14:44,Devolução - Registro Automático,Devolução,Paula Sanches Pedro ferminio,29605955806,2022-11-03 08:25:28,47h
+Netshoes,96833531,64008026,PENDENTE,2022-11-02 18:08:33,Troca - Registro Automático,Troca ,Herteson Machado dos Passos,1870609913,2022-11-03 08:23:05,47h
+Netshoes,97540149,64008018,PENDENTE,2022-11-02 18:08:03,Devolução - Registro Automático,Devolução,Letícia  torres da costa,5046288281,2022-11-03 09:23:04,47h
+Netshoes,97573309,64007950,PENDENTE,2022-11-02 17:56:23,Devolução - Registro Automático,Devolução,Eron Edson Dos Santos,42356590811,2022-11-03 09:26:09,47h
+Netshoes,97366994,64007826,PENDENTE,2022-11-02 17:35:40,Troca - Registro Automático,Troca ,Suelen Umbelino,39539771803,2022-11-03 09:29:26,47h
+Netshoes,97511976,64007811,PENDENTE,2022-11-02 17:32:20,Devolução - Registro Automático,Devolução,ELEN DAMASCENO CORTE,34506255860,2022-11-03 09:31:43,2d
+Netshoes,97814710,64007728,PENDENTE,2022-11-02 17:20:04,Devolução - Registro Automático,Devolução,Vinícius Rodrigues Fernandes Peixoto de Barros,15437536712,2022-11-03 09:42:45,2d
+Netshoes,97461346,64007572,PENDENTE,2022-11-02 16:58:01,Troca - Registro Automático,Troca ,Flávio Henrique César Drummond,13116791627,2022-11-03 09:47:08,2d
+Netshoes,96550539,64007420,PENDENTE,2022-11-02 16:36:15,Troca - Registro Automático,Troca ,Celso henrique moraes vendas,1040110924,2022-11-03 09:54:21,2d
+Netshoes,97372976,64007394,PENDENTE,2022-11-02 16:33:15,Troca - Registro Automático,Troca ,Natália  Devens,4170452046,2022-11-03 09:57:33,2d
+Netshoes,95824524,64007368,PENDENTE,2022-11-02 16:30:05,Troca - Registro Automático,Troca ,lucas eduardo,7166008113,2022-11-03 09:59:51,2d
+Netshoes,96699847,64007309,PENDENTE,2022-11-02 16:19:18,Troca - Registro Automático,Troca ,Ramon Rodrigues De Oliveira,16060354874,2022-11-03 10:09:53,2d
+Netshoes,97555938,64007240,PENDENTE,2022-11-02 16:09:40,Troca - Registro Automático,Troca ,Lilian Arakaki,16134154865,2022-11-03 10:18:02,2d
+Netshoes,96945009,64006987,PENDENTE,2022-11-02 15:36:56,Troca - Registro Automático,Troca ,Matheus Alves,19077210881,2022-11-03 10:22:58,2d
+Netshoes,97468311,64006974,PENDENTE,2022-11-02 15:35:23,Devolução - Registro Automático,Devolução,Andoly Souza,70200961152,2022-11-03 10:25:08,2d
+Netshoes,97318345,64006812,PENDENTE,2022-11-02 15:12:53,Devolução - Registro Automático,Devolução,Airton dos Santos Netto,6575166865,2022-11-03 10:28:14,2d
+Netshoes,97236709,64006723,PENDENTE,2022-11-01 14:34:50,Troca - Registro Automático,Troca ,André Costa,54871780899,2022-11-03 10:37:01,3d
+Netshoes,96964057,64006714,PENDENTE,2022-11-02 14:57:27,Troca - Registro Automático,Troca ,César Gomes,1735935182,2022-11-03 10:40:46,2d
+Netshoes,97724712,64006648,PENDENTE,2022-11-02 14:47:12,Troca - Registro Automático,Troca ,Kauan correia dos Santos Oliveira,47018418895,2022-11-03 10:43:11,2d
+Netshoes,97295878,64006627,PENDENTE,2022-11-02 14:33:32,Devolução - Registro Automático,Devolução,fábio crevelaro,31145970842,2022-11-03 10:46:22,2d
+Netshoes,97562321,64006513,PENDENTE,2022-11-02 14:22:00,Devolução - Registro Automático,Devolução,João Edson Souza,12216808466,2022-11-03 10:58:20,2d
+Netshoes,97444224,64006257,PENDENTE,2022-11-02 13:48:45,Troca - Registro Automático,Troca ,Caroline Merdeiros Leonardi,35830167859,2022-11-03 11:06:03,2d
+Netshoes,97538634,64006256,PENDENTE,2022-11-02 13:48:33,Devolução - Registro Automático,Devolução,lucas ferreira barbosa junior junior,22049178859,2022-11-03 11:09:48,2d
+Netshoes,97433538,64006059,PENDENTE,2022-11-02 13:33:32,Troca - Registro Automático,Troca ,Igor Matheus  Soares Siqueira,12634892659,2022-11-03 11:13:08,2d
+Netshoes,97472575,64006023,PENDENTE,2022-11-02 13:31:08,Troca - Registro Automático,Troca ,denis januario,28609551865,2022-11-03 11:15:10,2d
+Netshoes,97546610,64005903,PENDENTE,2022-11-02 13:16:02,Troca - Registro Automático,Troca ,cintia alve do   santos,32281464806,2022-11-03 11:16:52,2d
+Netshoes,97517666,64005855,PENDENTE,2022-11-02 13:10:33,Troca - Registro Automático,Troca ,JANAINA Chaves Franco,3067929667,2022-11-03 11:18:37,2d
+Netshoes,97277594,64005654,PENDENTE,2022-11-01 19:02:53,Devolução - Registro Automático,Devolução,Elisson Lamar,3128298254,2022-11-03 11:21:24,2d
+Netshoes,97535371,64005610,PENDENTE,2022-11-02 12:43:28,Devolução - Registro Automático,Devolução,Maristela  Previtera Ramos,2387281705,2022-11-03 11:24:12,2d
+Netshoes,96155643,64005406,PENDENTE,2022-11-02 12:22:26,Troca - Registro Automático,Troca ,Valdir Carvalho,92883842515,2022-11-03 11:31:34,2d
+Netshoes,88453882,64005327,PENDENTE,2022-11-02 12:11:49,Devolução - Registro Automático,Devolução,Francielli  Blecha,1057667129,2022-11-03 11:32:54,2d
+Netshoes,97163208,64005312,PENDENTE,2022-11-02 12:13:40,Troca - Registro Automático,Troca ,cyntia de paula gonçalves de oliveira,2493681452,2022-11-03 11:35:10,2d
+Netshoes,97602939,64005238,PENDENTE,2022-11-02 12:04:04,Troca - Registro Automático,Troca ,juliana cristina santos cristina,5048300580,2022-11-03 11:37:22,2d
+Netshoes,97724862,64005195,PENDENTE,2022-11-02 11:58:59,Devolução - Registro Automático,Devolução,Elaine Oliveiraq,7699961595,2022-11-03 12:08:24,2d
+Netshoes,97603753,64005125,PENDENTE,2022-11-02 11:52:15,Devolução - Registro Automático,Devolução,Leandro Chirinea,13192234865,2022-11-03 12:49:42,2d
+Netshoes,97455739,64005070,PENDENTE,2022-11-02 11:45:41,Troca - Registro Automático,Troca ,Carlos Mocci,38778788811,2022-11-03 14:56:31,2d
+Netshoes,97177538,64005038,PENDENTE,2022-11-02 11:41:55,Devolução - Registro Automático,Devolução,Thalles Felipe,6425369531,2022-11-03 15:02:47,2d
+Netshoes,97507404,64004850,PENDENTE,2022-11-02 11:25:48,Devolução - Registro Automático,Devolução,Eric  Donizeth,33130047840,2022-11-03 15:10:18,2d
+Netshoes,97234786,64004782,PENDENTE,2022-11-02 11:18:49,Troca - Registro Automático,Troca ,Jose Edson Buonafina  filho,58349413468,2022-11-03 15:14:12,2d
+Netshoes,97368414,64004755,PENDENTE,2022-11-02 11:16:57,Devolução - Registro Automático,Devolução,Cesar Valerio Ronquim,44055032811,2022-11-03 15:17:18,2d
+Netshoes,96811727,64004649,PENDENTE,2022-11-02 11:03:49,Devolução - Registro Automático,Devolução,Francilene Alves da Silva,5383168532,2022-11-03 15:20:20,2d
+Netshoes,97719255,64004508,PENDENTE,2022-11-02 10:51:28,Troca - Registro Automático,Troca ,renato batista,33528378808,2022-11-03 15:25:57,2d
+Netshoes,97124764,64004266,PENDENTE,2022-11-02 10:22:27,Troca - Registro Automático,Troca ,Vanessa Cabelo Pires,21835962874,2022-11-03 16:41:27,2d
+Netshoes,97523635,64004247,PENDENTE,2022-11-02 10:19:22,Devolução - Registro Automático,Devolução,Francesco Santos Curcio,11266469621,2022-11-03 16:44:16,2d
+Netshoes,97797850,64004129,PENDENTE,2022-11-02 10:05:40,Devolução - Registro Automático,Devolução,Thainan Conde,14004809819,2022-11-03 16:50:06,2d
+Netshoes,97420438,64004069,PENDENTE,2022-11-02 09:59:13,Devolução - Registro Automático,Devolução,kamilo braga,8578678494,2022-11-03 16:52:51,2d
+Netshoes,97586127,64003890,PENDENTE,2022-11-02 09:41:45,Devolução - Registro Automático,Devolução,Angélica da Silva Viana,26883987843,2022-11-03 16:56:45,2d
+Netshoes,97084335,64003865,PENDENTE,2022-11-02 09:38:44,Devolução - Registro Automático,Devolução,Allice Prado,11172597650,2022-11-03 17:00:21,2d
+Netshoes,97606875,64003773,PENDENTE,2022-11-02 09:27:04,Devolução - Registro Automático,Devolução,Aléxia Rabelo,8918749686,2022-11-03 17:05:18,2d
+Netshoes,97304541,64003734,PENDENTE,2022-11-02 09:22:51,Troca - Registro Automático,Troca ,Joao Emilio Fonseca silva Emilio,3363842546,2022-11-03 17:21:56,2d
+Netshoes,96695415,64003524,PENDENTE,2022-11-02 08:58:30,Troca - Registro Automático,Troca ,Erivaldo Evaristo,99063468172,2022-11-03 17:24:39,2d
+Netshoes,97585850,64002911,PENDENTE,2022-11-02 06:22:36,Devolução - Registro Automático,Devolução,andrigo lemes,29102082810,2022-11-03 16:32:45,2d
+Netshoes,97626621,64002882,PENDENTE,2022-11-02 04:24:57,Devolução - Registro Automático,Devolução,Felipe Lacerda,44111301819,2022-11-03 17:07:11,2d
+Netshoes,97249933,64002866,PENDENTE,2022-11-02 02:33:34,Devolução - Registro Automático,Devolução,Higor Nogueira,11958407640,2022-11-03 17:09:04,2d
+Netshoes,97252057,64002863,PENDENTE,2022-11-02 02:29:13,Devolução - Registro Automático,Devolução,Mauro Barcellos,96039507004,2022-11-03 17:11:01,2d
+Netshoes,97755573,64002857,PENDENTE,2022-11-02 02:00:33,Troca - Registro Automático,Troca ,Thiago Carvalho,16836859702,2022-11-03 17:12:53,2d
+Netshoes,97611933,64002843,PENDENTE,2022-11-02 01:20:41,Devolução - Registro Automático,Devolução,ivanna  oliveira,2037451245,2022-11-03 17:14:49,2d
+Netshoes,97790658,64002825,PENDENTE,2022-11-02 00:53:11,Devolução - Registro Automático,Devolução,DANILLO PINHO NOGUEIRA,5483676637,2022-11-03 17:17:05,2d
+Netshoes,97272333,64002785,PENDENTE,2022-11-02 00:04:24,Troca - Registro Automático,Troca ,Luiz Carlos de Oliveira Barreto,75165392368,2022-11-03 17:19:09,2d
+Netshoes,97358997,64002782,PENDENTE,2022-11-02 00:00:47,Troca - Registro Automático,Troca ,Zuleika Toscano Barili,8582251823,2022-11-03 16:30:39,2d
+Netshoes,97790675,64002774,PENDENTE,2022-11-01 23:54:45,Devolução - Registro Automático,Devolução,yan  fernando,51684741874,2022-11-03 16:28:34,2d
+Netshoes,97782779,64002708,PENDENTE,2022-11-01 22:56:49,Troca - Registro Automático,Troca ,Paulo César Figueiredo,40099010801,2022-11-03 16:25:30,2d
+Netshoes,97088194,64002705,PENDENTE,2022-11-01 22:56:18,Devolução - Registro Automático,Devolução,Daniel Leão Arruda,9596014498,2022-11-03 16:22:31,2d
+Netshoes,97543548,64002702,PENDENTE,2022-11-01 22:55:46,Troca - Registro Automático,Troca ,luiz fellipe  pereira ferreira,9296339464,2022-11-03 16:18:04,2d
+Netshoes,97456978,64002683,PENDENTE,2022-11-01 22:41:37,Devolução - Registro Automático,Devolução,Rodrigo Carvalho,8472538486,2022-11-03 16:15:35,2d
+Netshoes,97198824,64002667,PENDENTE,2022-11-01 22:35:49,Devolução - Registro Automático,Devolução,Matheus Henrique,14631077654,2022-11-03 16:13:28,2d
+Netshoes,97772644,64002606,PENDENTE,2022-11-01 22:10:40,Devolução - Registro Automático,Devolução,Gordo Smith,7601613305,2022-11-03 10:57:10,2d
+Netshoes,97397844,64002601,PENDENTE,2022-11-01 22:07:34,Troca - Registro Automático,Troca ,Pedro Henrique,71305304489,2022-11-03 11:13:00,2d
+Netshoes,97396310,64002582,PENDENTE,2022-11-01 21:58:56,Troca - Registro Automático,Troca ,luini oliveira silveira,49878092062,2022-11-03 11:19:39,2d
+Netshoes,96808287,64002536,PENDENTE,2022-11-01 21:34:25,Troca - Registro Automático,Troca ,Anderson Dos Santos Elesbão,38615876886,2022-11-03 11:21:07,2d
+Netshoes,97465394,64002534,PENDENTE,2022-11-01 21:34:09,Devolução - Registro Automático,Devolução,Hugo Rodrigues Carlos Pedroso,17170356716,2022-11-03 11:22:49,2d
+Netshoes,97474467,64002526,PENDENTE,2022-11-01 21:31:16,Devolução - Registro Automático,Devolução,Gustavo Hsu,6155496595,2022-11-03 11:24:03,2d
+Netshoes,96616257,64002525,PENDENTE,2022-11-01 21:31:15,Devolução - Registro Automático,Devolução,Antonio Vaz Batista Neto,2746503557,2022-11-03 11:39:25,2d
+Netshoes,97460082,64002519,PENDENTE,2022-11-01 15:14:24,Troca - Registro Automático,Troca ,Armando Brito,643493654,2022-11-03 11:41:11,3d
+Netshoes,97210370,64002503,PENDENTE,2022-11-01 21:26:34,Devolução - Registro Automático,Devolução,Fernanda Silva,43618334869,2022-11-03 11:42:59,2d
+Netshoes,97464380,64002486,PENDENTE,2022-11-01 21:18:04,Troca - Registro Automático,Troca ,FRANCIS RIZZO,32008432840,2022-11-03 11:54:54,2d
+Netshoes,96966472,64002479,PENDENTE,2022-11-01 21:13:54,Troca - Registro Automático,Troca ,Anna Paula  Masson,5193098983,2022-11-03 11:56:24,2d
+Netshoes,97506646,64002462,PENDENTE,2022-11-01 21:07:28,Troca - Registro Automático,Troca ,Rodrigo Ferreira santos,44074860821,2022-11-03 11:58:52,2d
+Netshoes,97525256,64002414,PENDENTE,2022-11-01 20:53:22,Troca - Registro Automático,Troca ,ronaldo souza,27040122880,2022-11-03 12:00:04,2d
+Netshoes,97495872,64002340,PENDENTE,2022-11-01 20:26:25,Devolução - Registro Automático,Devolução,marcos antonio correa da silva,96351799791,2022-11-03 12:01:19,2d
+Netshoes,97741245,64002338,PENDENTE,2022-11-01 20:25:59,Devolução - Registro Automático,Devolução,Fernando Jose Pires Leal,76178455704,2022-11-03 12:08:58,2d
+Netshoes,97457478,64002272,PENDENTE,2022-11-01 20:04:55,Devolução - Registro Automático,Devolução,Wesley Gonçalves Porto,86171165522,2022-11-03 12:12:02,2d
+Netshoes,97471288,64002175,PENDENTE,2022-11-01 19:52:44,Devolução - Registro Automático,Devolução,Mislene Medeiros Bueno,21851463860,2022-11-03 12:13:26,2d
+Netshoes,97495759,64002091,PENDENTE,2022-11-01 19:44:44,Troca - Registro Automático,Troca ,Joice Kelly da Silva Santana Sanyana,39591641818,2022-11-03 12:21:28,2d
+Netshoes,97520757,64002052,PENDENTE,2022-11-01 19:40:55,Devolução - Registro Automático,Devolução,Larissa Lamassa,14958174745,2022-11-03 12:22:41,2d
+Netshoes,97228344,64002019,PENDENTE,2022-11-01 19:36:35,Troca - Registro Automático,Troca ,TAMIRES  SANTOS,10448876485,2022-11-03 12:24:16,2d
+Netshoes,97103542,64002009,PENDENTE,2022-11-01 19:35:40,Devolução - Registro Automático,Devolução,Cassia Regina Sbrissia Silveira,3916106945,2022-11-03 12:25:36,2d
+Netshoes,97239412,64001928,PENDENTE,2022-11-01 19:24:11,Devolução - Registro Automático,Devolução,Alana Prieto Boni,911884904,2022-11-03 12:28:31,2d
+Netshoes,97453558,64001833,PENDENTE,2022-11-01 19:15:25,Devolução - Registro Automático,Devolução,Roberta Salvador moro,30022618821,2022-11-03 12:30:16,2d
+Netshoes,97276472,64001789,PENDENTE,2022-11-01 19:11:35,Devolução - Registro Automático,Devolução,Diego Bede,1856004333,2022-11-03 12:33:56,2d
+Netshoes,97471701,64001679,PENDENTE,2022-11-01 19:01:12,Troca - Registro Automático,Troca ,glazielle da silva barros,7694502703,2022-11-03 12:35:22,2d
+Netshoes,97462767,64001479,PENDENTE,2022-11-01 18:43:06,Devolução - Registro Automático,Devolução,Clayton wendt,92825702072,2022-11-03 12:49:27,2d
+Netshoes,97481856,64001344,PENDENTE,2022-11-01 18:34:13,Devolução - Registro Automático,Devolução,Lucas Ávila,5667870088,2022-11-03 12:58:20,2d
+Netshoes,97469843,64001231,PENDENTE,2022-11-01 18:25:10,Devolução - Registro Automático,Devolução,Danielle Lima de Oliveira,47369055817,2022-11-03 12:59:25,2d
+Netshoes,97246533,64001072,PENDENTE,2022-11-01 18:10:23,Troca - Registro Automático,Troca ,RODRIGO DE OLIVEIRA RODRIGUES,1393646689,2022-11-03 13:00:49,2d
+Netshoes,97465880,64001009,PENDENTE,2022-11-01 18:04:29,Troca - Registro Automático,Troca ,Felipe  Corrêa,47182661810,2022-11-03 13:02:30,2d
+Netshoes,97275729,64000869,PENDENTE,2022-11-01 17:53:12,Devolução - Registro Automático,Devolução,Diogo Wendell,3365671110,2022-11-03 13:05:10,2d
+Netshoes,97410651,64000814,PENDENTE,2022-11-01 17:49:19,Devolução - Registro Automático,Devolução,Luciana  catanho,29625932836,2022-11-03 13:06:27,2d
+Netshoes,97432659,64000610,PENDENTE,2022-11-01 17:35:43,Devolução - Registro Automático,Devolução,Othon Gonçalves,28323106568,2022-11-03 09:25:25,2d
+Netshoes,97432723,64000601,PENDENTE,2022-11-01 17:35:19,Devolução - Registro Automático,Devolução,Othon Gonçalves,28323106568,2022-11-03 09:26:46,2d
+Netshoes,97461856,64000476,PENDENTE,2022-11-01 17:26:15,Devolução - Registro Automático,Devolução,Milene Queiroz,1799705188,2022-11-03 09:27:59,3d
+Netshoes,95813522,64000299,PENDENTE,2022-11-01 17:13:43,Troca - Registro Automático,Troca ,Daniel Valentim,9014140690,2022-11-03 09:33:04,3d
+Netshoes,97253375,64000018,PENDENTE,2022-11-01 16:59:41,Troca - Registro Automático,Troca ,Vinicius de Souza Fenerich,31743921870,2022-11-03 09:36:04,3d
+Netshoes,96688209,64000005,PENDENTE,2022-11-01 16:58:44,Troca - Registro Automático,Troca ,aline de oliveira vergilio,3037882166,2022-11-04 15:08:00,3d
+Netshoes,97478195,63999801,PENDENTE,2022-11-01 16:44:34,Troca - Registro Automático,Troca ,Tatiele Santos,4513986107,2022-11-03 09:37:22,3d
+Netshoes,96318229,63999696,PENDENTE,2022-11-01 16:38:14,Troca - Registro Automático,Troca ,Vanuza Silva dos Santos Lima,40045185808,2022-11-03 09:38:39,3d
+Netshoes,94123122,63999666,PENDENTE,2022-11-01 16:31:25,Troca - Registro Automático,Troca ,MARCIO PIOVESAN,99486849072,2022-11-04 13:13:23,3d
+Netshoes,97344587,63999135,PENDENTE,2022-11-01 16:03:27,Troca - Registro Automático,Troca ,Carlos Frederico Vargas Rodrigues,7719231716,2022-11-03 09:49:17,3d
+Netshoes,97462920,63999133,PENDENTE,2022-11-01 16:03:23,Devolução - Registro Automático,Devolução,Fernandino Sales dos Santos Junior,437289281,2022-11-03 09:51:55,3d
+Netshoes,97159580,63999002,PENDENTE,2022-11-01 15:54:51,Troca - Registro Automático,Troca ,Larissa Paula Dalbosco,6242078970,2022-11-01 16:25:19,3d
+Netshoes,96269463,63998986,PENDENTE,2022-11-01 15:53:48,Devolução - Registro Automático,Devolução,Bruno  Souza Rodrigues,9907088617,2022-11-01 16:27:15,3d
+Netshoes,96773645,63998866,PENDENTE,2022-11-01 15:46:02,Troca - Registro Automático,Troca ,Alexandre da Silva,18065253806,2022-11-01 16:30:28,3d
+Netshoes,96571332,63998853,PENDENTE,2022-11-01 15:45:23,Troca - Registro Automático,Troca ,Sidatan Felix da Silva,79053777415,2022-11-03 09:57:13,3d
+Netshoes,97203021,63998684,PENDENTE,2022-11-01 15:37:01,Devolução - Registro Automático,Devolução,Jose lucio Cardoso,11426087608,2022-11-01 16:55:43,3d
+Netshoes,97438834,63998620,PENDENTE,2022-11-01 15:33:48,Troca - Registro Automático,Troca ,Carlos Alberto Xavier de Oliveira,6163541693,2022-11-01 16:57:30,3d
+Netshoes,92685787,63998295,PENDENTE,2022-11-01 15:17:10,Troca - Registro Automático,Troca ,Mateus Freitas,83215441004,2022-11-01 17:09:58,3d
+Netshoes,96868217,63998231,PENDENTE,2022-11-01 15:13:37,Troca - Registro Automático,Troca ,Dhaianny Ferraz,27185861845,2022-11-01 17:25:05,3d
+Netshoes,97213572,63998016,PENDENTE,2022-11-01 15:01:01,Devolução - Registro Automático,Devolução,Elizandra Felisardo Sales,4670897101,2022-11-01 17:30:23,3d
+Netshoes,97231198,63997679,PENDENTE,2022-11-01 14:43:50,Devolução - Registro Automático,Devolução,Fernanda Rocha Rodrigues,9773729605,2022-11-01 16:59:12,3d
+Netshoes,97461145,63997616,PENDENTE,2022-11-01 14:40:40,Troca - Registro Automático,Troca ,Adirlei Bastos,30005374812,2022-11-01 17:01:07,3d
+Netshoes,97347150,63997400,PENDENTE,2022-11-01 14:28:31,Devolução - Registro Automático,Devolução,Andre Amaro,6365790694,2022-11-01 17:10:10,3d
+Netshoes,97247461,63997385,PENDENTE,2022-11-01 14:27:16,Troca - Registro Automático,Troca ,Júlia Santos Soares,5443160613,2022-11-01 17:11:38,3d
+Netshoes,94217744,63997260,PENDENTE,2022-11-01 14:19:42,Troca - Registro Automático,Troca ,ABEl Eustaquio  Ferreira,6339517650,2022-11-01 17:14:36,3d
+Netshoes,96894604,63997130,PENDENTE,2022-11-01 14:11:46,Troca - Registro Automático,Troca ,CLAUDIA GS BERINO,314245707,2022-11-01 17:16:43,3d
+Netshoes,94459526,63997053,PENDENTE,2022-11-01 14:06:40,Troca - Registro Automático,Troca ,rafael wagner,54534968604,2022-11-01 17:18:47,3d
+Netshoes,97227322,63996965,PENDENTE,2022-11-01 14:00:51,Devolução - Registro Automático,Devolução,Murilo Barreto,39753150830,2022-11-01 16:18:25,3d
+Netshoes,97200764,63996939,PENDENTE,2022-11-01 13:58:52,Devolução - Registro Automático,Devolução,Rogerio  riguetti,11127682709,2022-11-01 16:21:40,3d
+Netshoes,97460120,63996909,PENDENTE,2022-11-01 13:57:33,Troca - Registro Automático,Troca ,ramon gomes,13002679763,2022-11-01 16:24:13,3d
+Netshoes,97315703,63996867,PENDENTE,2022-11-01 13:55:16,Troca - Registro Automático,Troca ,Pamela Ribeiro,3220617174,2022-11-01 16:26:27,3d
+Netshoes,97335560,63996779,PENDENTE,2022-11-01 13:50:48,Troca - Registro Automático,Troca ,Iuri Feronato,3914934000,2022-11-01 16:39:31,3d
+Netshoes,97158004,63996643,PENDENTE,2022-11-01 13:43:12,Troca - Registro Automático,Troca ,Matheus Guilherme Rodrigues Scursel,24513239816,2022-11-01 16:46:28,3d
+Netshoes,97335390,63996497,PENDENTE,2022-11-01 13:35:41,Devolução - Registro Automático,Devolução,lucas  tanos,77350146787,2022-11-01 16:51:06,3d
+Netshoes,97427883,63996407,PENDENTE,2022-11-01 13:30:51,Troca - Registro Automático,Troca ,LUCAS ROBERTO DE OLIVEIRA NETO,45306685846,2022-11-01 17:02:43,3d
+Netshoes,97316939,63996383,PENDENTE,2022-11-01 13:29:45,Troca - Registro Automático,Troca ,eder afonso neiverth,94000760378,2022-11-01 17:11:11,3d
+Netshoes,97389289,63996319,PENDENTE,2022-11-01 13:26:54,Devolução - Registro Automático,Devolução,Gabriel Marques,4252260183,2022-11-01 17:19:33,3d
+Netshoes,97451737,63996131,PENDENTE,2022-11-01 13:16:26,Troca - Registro Automático,Troca ,lucas lapa,15505630685,2022-11-03 09:59:16,3d
+Netshoes,96284245,63996058,PENDENTE,2022-11-01 13:12:13,Troca - Registro Automático,Troca ,Leonel Gomes da Silva Magalhaes,33818254885,2022-11-03 10:00:21,3d
+Netshoes,96845028,63995913,PENDENTE,2022-11-01 13:04:14,Troca - Registro Automático,Troca ,Leonardo Roberto Luna da Silva,26679119898,2022-11-03 10:02:25,3d
+Netshoes,97404107,63995863,PENDENTE,2022-11-01 13:02:31,Troca - Registro Automático,Troca ,Helder Elias,4516809109,2022-11-03 10:03:30,3d
+Netshoes,97475390,63995805,PENDENTE,2022-11-01 13:00:08,Troca - Registro Automático,Troca ,francisco marotti,3954494485,2022-11-03 10:05:39,3d
+Netshoes,96695567T,63995540,PENDENTE,2022-11-01 12:47:43,Troca - Registro Automático,Troca ,Carlos Augusto de Mattos Lencioni,88770435804,2022-11-03 10:06:52,3d
+Netshoes,97404987,63995373,PENDENTE,2022-11-01 12:39:31,Troca - Registro Automático,Troca ,Samuel Agazzi,957102054,2022-11-01 14:45:38,3d
+Netshoes,97170490,63995322,PENDENTE,2022-11-01 12:36:21,Troca - Registro Automático,Troca ,Marcelo Chagas,45172304819,2022-11-03 10:11:40,3d
+Netshoes,97434090,63995246,PENDENTE,2022-11-01 12:33:03,Troca - Registro Automático,Troca ,João Castro,240185706,2022-11-01 14:40:28,3d
+Netshoes,97244923,63995131,PENDENTE,2022-11-01 12:26:55,Troca - Registro Automático,Troca ,Celina Mei Ling Lu Chow,9375936805,2022-11-01 14:35:04,3d
+Netshoes,97237508,63995018,PENDENTE,2022-11-01 12:21:44,Devolução - Registro Automático,Devolução,Lucas Porto,15617258702,2022-11-01 14:28:18,3d
+Netshoes,95045340,63994862,PENDENTE,2022-11-01 12:14:40,Devolução - Registro Automático,Devolução,Marina Lima Dias,11808124685,2022-11-03 10:14:26,3d
+Netshoes,97475744,63994755,PENDENTE,2022-11-01 12:08:55,Devolução - Registro Automático,Devolução,Katley Caroline Andrighetti Prizak,9080060984,2022-11-01 14:23:44,3d
+Netshoes,97366969,63994723,PENDENTE,2022-11-01 12:07:39,Devolução - Registro Automático,Devolução,MARCIO NEIVA DE MOURA SANTOS,32726430368,2022-11-01 14:22:19,3d
+Netshoes,97087897,63994467,PENDENTE,2022-11-01 11:55:31,Troca - Registro Automático,Troca ,carol mendonca,93029861015,2022-11-01 13:57:33,3d
+Netshoes,97472716,63994452,PENDENTE,2022-11-01 11:54:46,Devolução - Registro Automático,Devolução,EDUARDO TADEU BOSCOVICH MALICIA,18671014835,2022-11-01 13:56:22,3d
+Netshoes,97422153,63994302,PENDENTE,2022-11-01 11:48:23,Troca - Registro Automático,Troca ,pedro henrihenrique  jeronimo alves,3772765610,2022-11-01 15:09:53,3d
+Netshoes,97296301,63994115,PENDENTE,2022-11-01 11:40:15,Troca - Registro Automático,Troca ,Gustavo Alexandre,3956771141,2022-11-01 13:51:50,3d
+Netshoes,97202938,63994109,PENDENTE,2022-11-01 11:40:07,Devolução - Registro Automático,Devolução,diego fernandes,10800217799,2022-11-01 13:50:42,3d
+Netshoes,94204788,63994096,PENDENTE,2022-11-01 11:34:55,Devolução - Registro Automático,Devolução,Kauany Monteiro Zacareli Gomes,35156539882,2022-11-01 13:49:35,3d
+Netshoes,97113683,63994095,PENDENTE,2022-11-01 11:39:35,Troca - Registro Automático,Troca ,lucas  França santos,50892778857,2022-11-01 13:48:36,3d
+Netshoes,97114719,63994067,PENDENTE,2022-11-01 11:38:08,Troca - Registro Automático,Troca ,Edicarlos Pereira de Sousa,29659098855,2022-11-01 13:47:29,3d
+Netshoes,97452392,63993971,PENDENTE,2022-11-01 11:35:00,Troca - Registro Automático,Troca ,Nayara Oliveira,8716007573,2022-11-01 13:46:28,3d
+Netshoes,97274286,63993890,PENDENTE,2022-11-01 11:31:45,Devolução - Registro Automático,Devolução,Juliana valeria Nunes fanton,38078552890,2022-11-03 10:17:40,3d
+Netshoes,97295293,63993563,PENDENTE,2022-11-01 11:18:55,Devolução - Registro Automático,Devolução,Carlos Daniel Lana Vieira,14539348639,2022-11-01 17:19:09,3d
+Netshoes,96048632,63993356,PENDENTE,2022-11-01 11:11:05,Devolução - Registro Automático,Devolução,aldair jorge,12852604493,2022-11-01 17:35:57,3d
+Netshoes,96882317,63993028,PENDENTE,2022-11-01 10:55:31,Devolução - Registro Automático,Devolução,Caio Menezes,7062691364,2022-11-01 13:18:22,3d
+Netshoes,97252285,63993009,PENDENTE,2022-11-01 10:54:30,Devolução - Registro Automático,Devolução,Ana Carolina Niehues,6205027976,2022-11-03 10:22:18,3d
+Netshoes,96935900,63992826,PENDENTE,2022-11-01 10:47:04,Troca - Registro Automático,Troca ,gabriel costantini,54402672805,2022-11-01 13:23:50,3d
+Netshoes,97469037,63992787,PENDENTE,2022-11-01 10:45:14,Devolução - Registro Automático,Devolução,mayara martins,38874384858,2022-11-01 13:25:17,3d
+Netshoes,97454228,63992596,PENDENTE,2022-11-01 10:38:31,Troca - Registro Automático,Troca ,Ivan Alberto Pimentel Moreno Jaçanã,28442406824,2022-11-01 13:30:34,3d
+Netshoes,97424638,63992579,PENDENTE,2022-11-01 10:37:33,Troca - Registro Automático,Troca ,Glauco Maimome,10698119711,2022-11-01 13:31:47,3d
+Netshoes,97457312,63992348,PENDENTE,2022-11-01 10:28:58,Troca - Registro Automático,Troca ,João Fellipe Emerich Guimarães Rosa,41138207837,2022-11-01 13:35:59,3d
