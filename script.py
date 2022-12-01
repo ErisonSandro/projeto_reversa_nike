@@ -25,191 +25,189 @@ path_protocolos="/home/erison/Desktop/lima/nike/projeto_crawler_zendesk_correios
 path_download_protocolos = path_protocolos
 date = datetime.now().strftime('%d%m%Y')
 
-#Crawler
-chromeOptions = webdriver.ChromeOptions()
-prefs = {"download.default_directory" : path_download_protocolos, "profile.default_content_setting_values.automatic_downloads": 1}
-chromeOptions.add_experimental_option("prefs",prefs)
-#chromeOptions.add_argument("start-maximized")
-browser = webdriver.Chrome(options=chromeOptions, executable_path="/home/erison/Desktop/lima/nike/projeto_crawler_zendesk_correios/chromedriver")
-sleep(3)
-browser.get("https://marketplace.netshoes.com.br/#/sac/atendimentos-novo")
+# #Crawler
+# chromeOptions = webdriver.ChromeOptions()
+# prefs = {"download.default_directory" : path_download_protocolos, "profile.default_content_setting_values.automatic_downloads": 1}
+# chromeOptions.add_experimental_option("prefs",prefs)
+# #chromeOptions.add_argument("start-maximized")
+# browser = webdriver.Chrome(options=chromeOptions, executable_path="/home/erison/Desktop/lima/nike/projeto_crawler_zendesk_correios/chromedriver")
+# sleep(3)
+# browser.get("https://marketplace.netshoes.com.br/#/sac/atendimentos-novo")
 
-####LOGIN
-sleep(3)
-print('CRAWLER PROTOCOLOS - login')
-login = WebDriverWait(browser, 2).until(EC.presence_of_element_located((By.XPATH, '/html/body/div/div/div/div/div[2]/div/form/div[1]/div/input')))
-sleep(1)
-login.send_keys("fribeiro@limaconsulting.com")
-sleep(1)
-password = browser.find_element(By.NAME, 'senha')
-sleep(1)
-password.send_keys("Lima@2022")
-sleep(2)
-submit = browser.find_element('xpath',"/html/body/div/div/div/div/div[2]/div/form/button/span[2]")
-sleep(1)
-submit.click()
-print('CRAWLER PROTOCOLOS - login ok')
-sleep(5)
+# ####LOGIN
+# sleep(3)
+# print('CRAWLER PROTOCOLOS - login')
+# login = WebDriverWait(browser, 2).until(EC.presence_of_element_located((By.XPATH, '/html/body/div/div/div/div/div[2]/div/form/div[1]/div/input')))
+# sleep(1)
+# login.send_keys("fribeiro@limaconsulting.com")
+# sleep(1)
+# password = browser.find_element(By.NAME, 'senha')
+# sleep(1)
+# password.send_keys("Lima@2022")
+# sleep(2)
+# submit = browser.find_element('xpath',"/html/body/div/div/div/div/div[2]/div/form/button/span[2]")
+# sleep(1)
+# submit.click()
+# print('CRAWLER PROTOCOLOS - login ok')
+# sleep(5)
 
-#Pesquisa por NIKE          
-search = browser.find_element('xpath','/html/body/div[2]/div/ng-include/nav/div/div[3]/yield[2]/div/ns-select-seller/div/div/input')
-search.click()
-print('CRAWLER PROTOCOLOS - Pesquisar NIKE')
-sleep(5)
-search.send_keys("Nike")
-webdriver.ActionChains(browser).send_keys(Keys.RETURN).perform()
-
-
-#Filtros avançados
-print('CRAWLER PROTOCOLOS - Filtrando data')
-sleep(8)
-filtros_avancados = browser.find_element(By.ID, 'botaoFiltrosAvancados').click()
-sleep(3)
-data_abertura = browser.find_element(By.CSS_SELECTOR, '#top > div.main > div > div.main-content.ng-scope > section.sac-protocols.ng-scope > div:nth-child(3) > div > form > div.col-md-6.no-p-h.v-mid > div > ng-include > div > div.dropdown-menu.col-md-12 > div > div > div.tab-pane.active > div > div:nth-child(1) > div > div > div.ui-select-match.ng-scope').click()
-sleep(3)
-ontem = browser.find_element(By.CSS_SELECTOR, '#ui-select-choices-row-0-0 > span').click()
-sleep(5)
-
-print('CRAWLER PROTOCOLOS - Filtrando status')
-filtro_protocolo = browser.find_element(By.ID, 'abaProtocolo').click()
-sleep(3)
-status = browser.find_element(By.CSS_SELECTOR, '#top > div.main > div > div.main-content.ng-scope > section.sac-protocols.ng-scope > div:nth-child(3) > div > form > div.col-md-6.no-p-h.v-mid > div > ng-include > div > div.dropdown-menu.col-md-12 > div > div > div.tab-pane.active > div > div:nth-child(2) > div > div > ul > li > input').click()
-sleep(3)
-pendente = browser.find_element(By.ID, 'ui-select-choices-row-3-0').click()
-sleep(5)
-filtrar = browser.find_element(By.CSS_SELECTOR, '#top > div.main > div > div.main-content.ng-scope > section.sac-protocols.ng-scope > div:nth-child(3) > div > form > div.col-md-6.no-p-r > div > div.col-md-3.no-p.text-right > button:nth-child(1)').click()
-sleep(15)
+# #Pesquisa por NIKE          
+# search = browser.find_element('xpath','/html/body/div[2]/div/ng-include/nav/div/div[3]/yield[2]/div/ns-select-seller/div/div/input')
+# search.click()
+# print('CRAWLER PROTOCOLOS - Pesquisar NIKE')
+# sleep(5)
+# search.send_keys("Nike")
+# webdriver.ActionChains(browser).send_keys(Keys.RETURN).perform()
 
 
-#fazendo download
-print('CRAWLER PROTOCOLOS - Fazendo download')
-download = browser.find_element(By.XPATH, '/html/body/div[2]/div/div[1]/section[1]/div[1]/div/div[3]/button[2]')
-sleep(1)
-download.click()
-sleep(10)
+# #Filtros avançados
+# print('CRAWLER PROTOCOLOS - Filtrando data')
+# sleep(8)
+# filtros_avancados = browser.find_element(By.ID, 'botaoFiltrosAvancados').click()
+# sleep(3)
+# data_abertura = browser.find_element(By.CSS_SELECTOR, '#top > div.main > div > div.main-content.ng-scope > section.sac-protocols.ng-scope > div:nth-child(3) > div > form > div.col-md-6.no-p-h.v-mid > div > ng-include > div > div.dropdown-menu.col-md-12 > div > div > div.tab-pane.active > div > div:nth-child(1) > div > div > div.ui-select-match.ng-scope').click()
+# sleep(3)
+# ontem = browser.find_element(By.CSS_SELECTOR, '#ui-select-choices-row-0-0 > span').click()
+# sleep(5)
+
+# print('CRAWLER PROTOCOLOS - Filtrando status')
+# filtro_protocolo = browser.find_element(By.ID, 'abaProtocolo').click()
+# sleep(3)
+# status = browser.find_element(By.CSS_SELECTOR, '#top > div.main > div > div.main-content.ng-scope > section.sac-protocols.ng-scope > div:nth-child(3) > div > form > div.col-md-6.no-p-h.v-mid > div > ng-include > div > div.dropdown-menu.col-md-12 > div > div > div.tab-pane.active > div > div:nth-child(2) > div > div > ul > li > input').click()
+# sleep(3)
+# pendente = browser.find_element(By.ID, 'ui-select-choices-row-3-0').click()
+# sleep(5)
+# filtrar = browser.find_element(By.CSS_SELECTOR, '#top > div.main > div > div.main-content.ng-scope > section.sac-protocols.ng-scope > div:nth-child(3) > div > form > div.col-md-6.no-p-r > div > div.col-md-3.no-p.text-right > button:nth-child(1)').click()
+# sleep(15)
 
 
-#Lendo arquivos baixados
-print('CRAWLER PROTOCOLOS - Lendo arquivos baixados')
-onlyfiles = [f for f in listdir(path_download_protocolos)]
-for ix in onlyfiles:
-    if ix.startswith(f'Protocolos_{date}'):
-        df_protocolo = pd.read_excel(path_download_protocolos+ix, engine="openpyxl", usecols="A:K")
-#        os.remove(path_download_protocolos+ix)
-        print('CRAWLER PROTOCOLOS - Filtrando df_protocolo')
-        df1 = df_protocolo
-        df1 = df1[df1['Status'] == 'PENDENTE']
-        df1 = df1[(df1['Motivo do Protocolo'] == 'Troca ') | (df1['Motivo do Protocolo'] == 'Devolução')]
-        df_protocolo = df1
-        count = df_protocolo.shape[0]
-        print(f'total registros: [{count}]')
-
-sleep(10)   
+# #fazendo download
+# print('CRAWLER PROTOCOLOS - Fazendo download')
+# download = browser.find_element(By.XPATH, '/html/body/div[2]/div/div[1]/section[1]/div[1]/div/div[3]/button[2]')
+# sleep(1)
+# download.click()
+# sleep(10)
 
 
+# #Lendo arquivos baixados
+# print('CRAWLER PROTOCOLOS - Lendo arquivos baixados')
+# onlyfiles = [f for f in listdir(path_download_protocolos)]
+# for ix in onlyfiles:
+#     if ix.startswith(f'Protocolos_{date}'):
+#         df_protocolo = pd.read_excel(path_download_protocolos+ix, engine="openpyxl", usecols="A:K")
+#         os.remove(path_download_protocolos+ix)
+#         print('CRAWLER PROTOCOLOS - Filtrando df_protocolo')
+#         df1 = df_protocolo
+#         df1 = df1[df1['Status'] == 'PENDENTE']
+#         df1 = df1[(df1['Motivo do Protocolo'] == 'Troca ') | (df1['Motivo do Protocolo'] == 'Devolução')]
+#         df_protocolo = df1
+#         count = df_protocolo.shape[0]
+#         print(f'total registros: [{count}]')
+
+# sleep(10)   
 
 
-
-
-print('CRAWLER PROTOCOLOS - Iniciando crawler chat')
-lista_cpf = []
-lista_chat = []
-lista_prio = []  
-lista_prod = []
-index = 0
-for prot in df_protocolo['Protocolo']:  
-        while True:
-            try:
-                browser.get(f"https://marketplace.netshoes.com.br/#/sac/atendimentos-novo/{prot}")
-                sleep(1)
-                prioridade=WebDriverWait(browser, 5).until(EC.presence_of_element_located((By.CSS_SELECTOR, '#top > div.main > div > div.main-content.ng-scope > section > div.ns-card.ns-card--nohover.ns-top-background-doc.m-b-20 > div.ns-order-info.row.p-l-20.p-r-20.m-t-20 > div.col-xs-5.col-sm-3.col-md-2 > div > p')))
-                if prioridade.text != '':  
-                    priori = prioridade.text.replace("Prioridade:", "")
-                    lista_prio.append(priori)
+# print('CRAWLER PROTOCOLOS - Iniciando crawler chat')
+# lista_cpf = []
+# lista_chat = []
+# lista_prio = []  
+# lista_prod = []
+# index = 0
+# for prot in df_protocolo['Protocolo']:  
+#         while True:
+#             try:
+#                 browser.get(f"https://marketplace.netshoes.com.br/#/sac/atendimentos-novo/{prot}")
+#                 sleep(1)
+#                 prioridade=WebDriverWait(browser, 5).until(EC.presence_of_element_located((By.CSS_SELECTOR, '#top > div.main > div > div.main-content.ng-scope > section > div.ns-card.ns-card--nohover.ns-top-background-doc.m-b-20 > div.ns-order-info.row.p-l-20.p-r-20.m-t-20 > div.col-xs-5.col-sm-3.col-md-2 > div > p')))
+#                 if prioridade.text != '':  
+#                     priori = prioridade.text.replace("Prioridade:", "")
+#                     lista_prio.append(priori)
                     
-                    chat = browser.find_element(By.CSS_SELECTOR, '#top > div.main > div > div.main-content.ng-scope > section > div.ns-card.no-p.overflow-no.ns-card--nohover.m-b-20 > div > div.ns-chat__body.ns-chat-js')
-                    lista_chat.append(chat.text)
+#                     chat = browser.find_element(By.CSS_SELECTOR, '#top > div.main > div > div.main-content.ng-scope > section > div.ns-card.no-p.overflow-no.ns-card--nohover.m-b-20 > div > div.ns-chat__body.ns-chat-js')
+#                     lista_chat.append(chat.text)
 
-                    cpf_crawler = browser.find_element(By.XPATH, '/html/body/div[2]/div/div[1]/section/div[3]/div[2]/div[1]/p[2]')
-                    cpf = cpf_crawler.text.replace('CPF/CNPJ: ', '').replace('.', '').replace('-', '')
-                    lista_cpf.append(cpf)                   
+#                     cpf_crawler = browser.find_element(By.XPATH, '/html/body/div[2]/div/div[1]/section/div[3]/div[2]/div[1]/p[2]')
+#                     cpf = cpf_crawler.text.replace('CPF/CNPJ: ', '').replace('.', '').replace('-', '')
+#                     lista_cpf.append(cpf)                   
                
-                    index += 1
-                    print(f'{index} - protocolo: {prot} - {priori}')
-                    sleep(2)
-                    break                                 
+#                     index += 1
+#                     print(f'{index} - protocolo: {prot} - {priori}')
+#                     sleep(2)
+#                     break                                 
 
-                else:
-                    print('Valores vazio - Recarregando pagina')
-                    browser.refresh()
-                    sleep(2)
+#                 else:
+#                     print('Valores vazio - Recarregando pagina')
+#                     browser.refresh()
+#                     sleep(2)
                     
-            except:
-                print('Erro no try - Recarregando pagina')              
-                try:   
-                    ####LOGIN
-                    sleep(5)
-                    print('CRAWLER PROTOCOLOS - login')
-                    login = WebDriverWait(browser, 10).until(EC.presence_of_element_located((By.XPATH, '/html/body/div/div/div/div/div[2]/div/form/div[1]/div/input')))
-                    sleep(1)
-                    login.send_keys("fribeiro@limaconsulting.com")
-                    sleep(1)
-                    password = browser.find_element(By.NAME, 'senha')
-                    sleep(1)
-                    password.send_keys("Lima@2022")
-                    sleep(2)
-                    submit = browser.find_element('xpath',"/html/body/div/div/div/div/div[2]/div/form/button/span[2]")
-                    sleep(1)
-                    submit.click()
-                    print('CRAWLER PROTOCOLOS - login ok')
-                    sleep(5)
+#             except:
+#                 print('Erro no try - Recarregando pagina')              
+#                 try:   
+#                     ####LOGIN
+#                     sleep(5)
+#                     print('CRAWLER PROTOCOLOS - login')
+#                     login = WebDriverWait(browser, 10).until(EC.presence_of_element_located((By.XPATH, '/html/body/div/div/div/div/div[2]/div/form/div[1]/div/input')))
+#                     sleep(1)
+#                     login.send_keys("fribeiro@limaconsulting.com")
+#                     sleep(1)
+#                     password = browser.find_element(By.NAME, 'senha')
+#                     sleep(1)
+#                     password.send_keys("Lima@2022")
+#                     sleep(2)
+#                     submit = browser.find_element('xpath',"/html/body/div/div/div/div/div[2]/div/form/button/span[2]")
+#                     sleep(1)
+#                     submit.click()
+#                     print('CRAWLER PROTOCOLOS - login ok')
+#                     sleep(5)
 
-                    browser.get(f"https://marketplace.netshoes.com.br/#/sac/atendimentos-novo/{prot}")
-                    sleep(5)
-                    prioridade=WebDriverWait(browser, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, '#top > div.main > div > div.main-content.ng-scope > section > div.ns-card.ns-card--nohover.ns-top-background-doc.m-b-20 > div.ns-order-info.row.p-l-20.p-r-20.m-t-20 > div.col-xs-5.col-sm-3.col-md-2 > div > p')))
-                    sleep(5)
+#                     browser.get(f"https://marketplace.netshoes.com.br/#/sac/atendimentos-novo/{prot}")
+#                     sleep(5)
+#                     prioridade=WebDriverWait(browser, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, '#top > div.main > div > div.main-content.ng-scope > section > div.ns-card.ns-card--nohover.ns-top-background-doc.m-b-20 > div.ns-order-info.row.p-l-20.p-r-20.m-t-20 > div.col-xs-5.col-sm-3.col-md-2 > div > p')))
+#                     sleep(5)
                     
-                except:
-                    print('Recarregando pagina')
-                    browser.refresh()
-                    sleep(5)
+#                 except:
+#                     print('Recarregando pagina')
+#                     browser.refresh()
+#                     sleep(5)
 
-print('CRAWLER PROTOCOLOS - Finalizando crawler chat')
-browser.quit()
-
-
-##Criando colunas com dados extraidos
-df_protocolo['prioridade'] = lista_prio
-df_protocolo['chat'] = lista_chat
-df_protocolo['cpf_crawler'] = lista_cpf
-
-##Retirando codigos SKU do chat netshoes
-cod_sku = []
-for i in df_protocolo['chat']:
-    a = re.findall(r'\w*\d*-\d{4}-\d{3}-\d{2}', i)
-    aa = set(a)
-    cod_sku.append(list(aa))
-
-df_protocolo['cod_sku'] = cod_sku
+# print('CRAWLER PROTOCOLOS - Finalizando crawler chat')
+# browser.quit()
 
 
-##Renomeando colunas
-df_protocolo.rename(columns={"Responsável": "responsavel",
-                           "Pedido": "pedido",
-                           "Protocolo": "protocolo",
-                           "Status": "status",
-                           "Abertura": "abertura",
-                           "Tipo Protocolo": "tipo_protocolo",
-                           "Motivo do Protocolo": "motivo_do_protocolo",
-                           "Cliente": "cliente",
-                           "CPF/CNPJ": "cpf_cnpj",
-                           "Última Atualização do Trâmite": "ultima_atualizacao_tramite",
-                           "Tempo em Aberto": "tempo_em_aberto"},
-                  inplace=True)
+# ##Criando colunas com dados extraidos
+# df_protocolo['prioridade'] = lista_prio
+# df_protocolo['chat'] = lista_chat
+# df_protocolo['cpf_crawler'] = lista_cpf
+
+# ##Retirando codigos SKU do chat netshoes
+# cod_sku = []
+# for i in df_protocolo['chat']:
+#     a = re.findall(r'\w*\d*-\d{4}-\d{3}-\d{2}', i)
+#     aa = set(a)
+#     cod_sku.append(list(aa))
+
+# df_protocolo['cod_sku'] = cod_sku
 
 
-## SAlvando dados crawler 
-df_protocolo.to_csv(f'./downloads/netshoes/protocolos_tratados/Protocolos_{date}.csv', index=False)
+# ##Renomeando colunas
+# df_protocolo.rename(columns={"Responsável": "responsavel",
+#                            "Pedido": "pedido",
+#                            "Protocolo": "protocolo",
+#                            "Status": "status",
+#                            "Abertura": "abertura",
+#                            "Tipo Protocolo": "tipo_protocolo",
+#                            "Motivo do Protocolo": "motivo_do_protocolo",
+#                            "Cliente": "cliente",
+#                            "CPF/CNPJ": "cpf_cnpj",
+#                            "Última Atualização do Trâmite": "ultima_atualizacao_tramite",
+#                            "Tempo em Aberto": "tempo_em_aberto"},
+#                   inplace=True)
+
+
+# ## SAlvando dados crawler 
+# df_protocolo.to_csv(f'./downloads/netshoes/protocolos_tratados/Protocolos_{date}.csv', index=False)
+
+df_protocolo = pd.read_csv(f'./downloads/netshoes/protocolos_tratados/Protocolos_{date}.csv')
 
 
 #### Adicionando zeros a esqueda nos cpf
@@ -507,7 +505,7 @@ print(f'df: {df.shape[0]}')
 print(f'df_completo: {df_completo.shape[0]}')
 print(f'df_final: {df_final.shape[0]}')
 print(f'Dados API: {dados}')
-print(f'Nulos: {nulos}')
+print(f'Nulos API: {nulos}')
 
 
 
@@ -651,3 +649,15 @@ df_null.to_excel(f'/home/erison/Desktop/lima/nike/projeto_crawler_zendesk_correi
 
 
 
+### Contando dataframes
+dados = df_api[df_api['id'].notna()].shape[0]
+nulos = df_api[df_api['id'].isna()].shape[0]
+print(f'Protocolos: {df_protocolo.shape[0]}')
+print(f'Pedidos: {df_pedido.shape[0]}')
+print(f'df: {df.shape[0]}')
+print(f'df_completo: {df_completo.shape[0]}')
+print(f'df_final: {df_final.shape[0]}')
+print(f'Dados API: {dados}')
+print(f'Nulos API: {nulos}')
+print(f'Processados - {df_correios.shape[0]}')
+print(f'Não Processados - {df_null.shape[0]}')
